@@ -1,0 +1,7 @@
+<meta>
+  <info name="ApartmentLife" description="Apartments for RP"/>
+  
+  <script src="apartmentlife.cs" type="server" lang="csharp"/>
+  <script src="database.cs" type="server" lang="csharp"/>
+  <script src="loginmanager.cs" type="server" lang="csharp"/>
+</meta>

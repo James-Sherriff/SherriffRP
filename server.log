@@ -1,0 +1,575 @@
+-> SERVER STARTED AT 14/01/2017 13:10:17[13:10:17] Starting...
+[13:10:22] ERROR: Socket Exception when starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted
+[13:10:35] Terminating...
+-> SERVER STARTED AT 14/01/2017 13:10:49[13:10:49] Starting...
+[13:10:49] Loading resources...
+[13:10:49] Starting admin
+[13:10:50] Resource admin started!
+[13:10:50] Starting freeroam
+[13:10:50] Resource freeroam started!
+[13:10:50] Starting speedometer
+[13:10:50] Resource speedometer started!
+[13:10:50] Started! Waiting for connections.
+[13:11:07] Initiating connection: [127.0.0.1:6000]
+[13:11:07] Processing connection: jamesyoui (jamesyoui) [127.0.0.1]
+[13:11:07] Connection established: jamesyoui (jamesyoui) [127.0.0.1]
+[13:21:06] jamesyoui: help
+[13:21:24] Terminating...
+[13:21:24] Stopping speedometer
+[13:21:24] Stopped speedometer!
+[13:21:24] Stopping freeroam
+[13:21:24] Stopped freeroam!
+[13:21:24] Stopping admin
+[13:21:24] Stopped admin!
+-> SERVER STARTED AT 14/01/2017 13:22:20[13:22:20] Starting...
+[13:22:21] Loading resources...
+[13:22:21] Starting admin
+[13:22:21] Resource admin started!
+[13:22:21] Starting freeroam
+[13:22:21] Resource freeroam started!
+[13:22:21] Starting speedometer
+[13:22:22] Resource speedometer started!
+[13:22:22] Starting helpmanager
+[13:22:22] Resource helpmanager started!
+[13:22:22] Started! Waiting for connections.
+[13:25:27] Initiating connection: [127.0.0.1:6000]
+[13:25:27] Processing connection: jamesyoui (jamesyoui) [127.0.0.1]
+[13:25:27] Connection established: jamesyoui (jamesyoui) [127.0.0.1]
+[13:25:38] Player disconnected: jamesyoui (jamesyoui) [127.0.0.1], reason: Quit
+[13:26:08] Terminating...
+[13:26:08] Stopping helpmanager
+[13:26:08] Stopped helpmanager!
+[13:26:08] Stopping speedometer
+[13:26:08] Stopped speedometer!
+[13:26:08] Stopping freeroam
+[13:26:08] Stopped freeroam!
+[13:26:08] Stopping admin
+[13:26:08] Stopped admin!
+-> SERVER STARTED AT 14/01/2017 13:26:15[13:26:15] Starting...
+[13:26:15] Loading resources...
+[13:26:15] Starting admin
+[13:26:16] Resource admin started!
+[13:26:16] Starting freeroam
+[13:26:16] Resource freeroam started!
+[13:26:16] Starting speedometer
+[13:26:16] Resource speedometer started!
+[13:26:16] Starting helpmanager
+[13:26:16] Resource helpmanager started!
+[13:26:16] Started! Waiting for connections.
+[13:26:39] Initiating connection: [127.0.0.1:6000]
+[13:26:40] Processing connection: jamesyoui (jamesyoui) [127.0.0.1]
+[13:26:40] Connection established: jamesyoui (jamesyoui) [127.0.0.1]
+[13:29:06] Player disconnected: jamesyoui (jamesyoui) [127.0.0.1], reason: Quit
+[13:29:14] Initiating connection: [127.0.0.1:6000]
+[13:29:14] Processing connection: jamesyoui (jamesyoui) [127.0.0.1]
+[13:29:14] Connection established: jamesyoui (jamesyoui) [127.0.0.1]
+[13:29:14] Terminating...
+[13:29:14] Stopping helpmanager
+[13:29:14] Stopped helpmanager!
+[13:29:14] Stopping speedometer
+[13:29:14] Stopped speedometer!
+[13:29:14] Stopping freeroam
+[13:29:14] Stopped freeroam!
+[13:29:14] Stopping admin
+[13:29:14] Stopped admin!
+-> SERVER STARTED AT 14/01/2017 20:48:15[20:48:15] Starting...
+[20:48:16] ERROR: Socket Exception when starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted
+[20:48:50] Started! Waiting for connections.
+[20:48:50] Terminating...
+-> SERVER STARTED AT 14/01/2017 20:49:03[20:49:03] WARN: Port is not the default one, players on your local network won't be able to automatically detect you!
+[20:49:03] Starting...
+[20:49:03] Loading resources...
+[20:49:03] Starting admin
+[20:49:04] Resource admin started!
+[20:49:04] Starting freeroam
+[20:49:04] Resource freeroam started!
+[20:49:04] Starting speedometer
+[20:49:04] Resource speedometer started!
+[20:49:04] Starting helpmanager
+[20:49:04] Resource helpmanager started!
+[20:49:04] Started! Waiting for connections.
+[20:49:25] Terminating...
+[20:49:25] Stopping helpmanager
+[20:49:25] Stopped helpmanager!
+[20:49:25] Stopping speedometer
+[20:49:25] Stopped speedometer!
+[20:49:25] Stopping freeroam
+[20:49:25] Stopped freeroam!
+[20:49:25] Stopping admin
+[20:49:25] Stopped admin!
+-> SERVER STARTED AT 14/01/2017 20:49:28[20:49:28] WARN: Port is not the default one, players on your local network won't be able to automatically detect you!
+[20:49:28] Starting...
+[20:49:28] Loading resources...
+[20:49:28] Starting admin
+[20:49:28] Resource admin started!
+[20:49:28] Starting freeroam
+[20:49:29] Resource freeroam started!
+[20:49:29] Starting speedometer
+[20:49:29] Resource speedometer started!
+[20:49:29] Starting helpmanager
+[20:49:29] Resource helpmanager started!
+[20:49:29] Started! Waiting for connections.
+[20:49:43] Terminating...
+[20:49:43] Stopping helpmanager
+[20:49:43] Stopped helpmanager!
+[20:49:43] Stopping speedometer
+[20:49:43] Stopped speedometer!
+[20:49:43] Stopping freeroam
+[20:49:43] Stopped freeroam!
+[20:49:43] Stopping admin
+[20:49:43] Stopped admin!
+-> SERVER STARTED AT 14/01/2017 20:49:59[20:49:59] WARN: Port is not the default one, players on your local network won't be able to automatically detect you!
+[20:49:59] Starting...
+[20:50:00] Loading resources...
+[20:50:00] Starting admin
+[20:50:00] Resource admin started!
+[20:50:00] Starting freeroam
+[20:50:00] Resource freeroam started!
+[20:50:00] Starting speedometer
+[20:50:00] Resource speedometer started!
+[20:50:00] Starting helpmanager
+[20:50:01] Resource helpmanager started!
+[20:50:01] Starting metro
+[20:50:01] Resource metro started!
+[20:50:01] metro has started!
+[20:50:01] Starting Metro system!
+[20:50:01] Started! Waiting for connections.
+[20:51:10] Terminating...
+[20:51:10] Stopping metro
+[20:51:10] Stopped metro!
+[20:51:10] Stopping helpmanager
+[20:51:10] Stopped helpmanager!
+[20:51:10] Stopping speedometer
+[20:51:10] Stopped speedometer!
+[20:51:10] Stopping freeroam
+[20:51:10] Stopped freeroam!
+[20:51:10] Stopping admin
+[20:51:10] Stopped admin!
+-> SERVER STARTED AT 14/01/2017 20:52:04[20:52:04] Starting...
+[20:52:04] Loading resources...
+[20:52:04] Starting admin
+[20:52:04] Resource admin started!
+[20:52:04] Starting freeroam
+[20:52:05] Resource freeroam started!
+[20:52:05] Starting speedometer
+[20:52:05] Resource speedometer started!
+[20:52:05] Starting helpmanager
+[20:52:05] Resource helpmanager started!
+[20:52:05] Starting metro
+[20:52:05] Resource metro started!
+[20:52:05] metro has started!
+[20:52:05] Starting Metro system!
+[20:52:05] Started! Waiting for connections.
+[20:52:27] Initiating connection: [127.0.0.1:6002]
+[20:52:27] Processing connection: jamesyoui (jamesyoui) [127.0.0.1]
+[20:52:27] Connection established: jamesyoui (jamesyoui) [127.0.0.1]
+[21:06:41] Terminating...
+[21:06:41] Stopping metro
+[21:06:41] Stopped metro!
+[21:06:41] Stopping helpmanager
+[21:06:41] Stopped helpmanager!
+[21:06:41] Stopping speedometer
+[21:06:41] Stopped speedometer!
+[21:06:41] Stopping freeroam
+[21:06:41] Stopped freeroam!
+[21:06:41] Stopping admin
+[21:06:41] Stopped admin!
+-> SERVER STARTED AT 14/01/2017 21:06:46[21:06:46] Starting...
+[21:06:47] Loading resources...
+[21:06:47] Starting admin
+[21:06:47] Resource admin started!
+[21:06:47] Starting freeroam
+[21:06:47] Resource freeroam started!
+[21:06:47] Starting speedometer
+[21:06:47] Resource speedometer started!
+[21:06:47] Starting helpmanager
+[21:06:47] Resource helpmanager started!
+[21:06:47] Starting rpapartments
+[21:06:48] Error/warning while compiling script!
+[21:06:48] Error (CS1520) at 9: Method must have a return type
+[21:06:48] ERROR STARTING RESOURCE rpapartments
+[21:06:48] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[21:06:48] Started! Waiting for connections.
+[21:07:36] Terminating...
+[21:07:36] Stopping helpmanager
+[21:07:36] Stopped helpmanager!
+[21:07:36] Stopping speedometer
+[21:07:36] Stopped speedometer!
+[21:07:36] Stopping freeroam
+[21:07:36] Stopped freeroam!
+[21:07:36] Stopping admin
+[21:07:36] Stopped admin!
+-> SERVER STARTED AT 14/01/2017 21:07:38[21:07:38] Starting...
+[21:07:39] Loading resources...
+[21:07:39] Starting admin
+[21:07:39] Resource admin started!
+[21:07:39] Starting freeroam
+[21:07:39] Resource freeroam started!
+[21:07:39] Starting speedometer
+[21:07:39] Resource speedometer started!
+[21:07:39] Starting helpmanager
+[21:07:39] Resource helpmanager started!
+[21:07:39] Starting rpapartments
+[21:07:39] Resource rpapartments started!
+[21:07:39] Started! Waiting for connections.
+[21:07:39] rpapartments has started!
+[21:07:39] Starting rpapartments
+[21:08:06] Terminating...
+[21:08:06] Stopping rpapartments
+[21:08:06] Stopped rpapartments!
+[21:08:06] Stopping helpmanager
+[21:08:06] Stopped helpmanager!
+[21:08:06] Stopping speedometer
+[21:08:06] Stopped speedometer!
+[21:08:06] Stopping freeroam
+[21:08:06] Stopped freeroam!
+[21:08:06] Stopping admin
+[21:08:06] Stopped admin!
+-> SERVER STARTED AT 14/01/2017 21:08:09[21:08:09] Starting...
+[21:08:09] Loading resources...
+[21:08:09] Starting admin
+[21:08:10] Resource admin started!
+[21:08:10] Starting freeroam
+[21:08:10] Resource freeroam started!
+[21:08:10] Starting speedometer
+[21:08:10] Resource speedometer started!
+[21:08:10] Starting helpmanager
+[21:08:10] Resource helpmanager started!
+[21:08:10] Starting rpapartments
+[21:08:10] Resource rpapartments started!
+[21:08:10] rpapartments has started!
+[21:08:10] Started! Waiting for connections.
+[21:08:21] Initiating connection: [127.0.0.1:6002]
+[21:08:21] Processing connection: jamesyoui (jamesyoui) [127.0.0.1]
+[21:08:21] Connection established: jamesyoui (jamesyoui) [127.0.0.1]
+[21:09:30] Initiating connection: [192.168.1.114:6000]
+[21:09:30] Processing connection: PurpleSharkX (PurpleSharkX) [192.168.1.114]
+[21:09:30] Connection established: PurpleSharkX (PurpleSharkX) [192.168.1.114]
+[21:21:01] Player disconnected: PurpleSharkX (PurpleSharkX) [192.168.1.114], reason: Quit
+[21:30:51] Player disconnected: jamesyoui (jamesyoui) [127.0.0.1], reason: Quit
+-> SERVER STARTED AT 14/01/2017 21:56:18[21:56:18] Starting...
+[21:56:18] ERROR: Socket Exception when starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted
+[21:56:22] Terminating...
+[21:56:28] Terminating...
+[21:56:28] Stopping rpapartments
+[21:56:28] Stopped rpapartments!
+[21:56:28] Stopping helpmanager
+[21:56:28] Stopped helpmanager!
+[21:56:28] Stopping speedometer
+[21:56:28] Stopped speedometer!
+[21:56:28] Stopping freeroam
+[21:56:28] Stopped freeroam!
+[21:56:28] Stopping admin
+[21:56:28] Stopped admin!
+-> SERVER STARTED AT 14/01/2017 21:56:31[21:56:31] Starting...
+[21:56:31] Loading resources...
+[21:56:31] Starting admin
+[21:56:32] Resource admin started!
+[21:56:32] Starting freeroam
+[21:56:32] Resource freeroam started!
+[21:56:32] Starting speedometer
+[21:56:32] Resource speedometer started!
+[21:56:32] Starting helpmanager
+[21:56:32] Resource helpmanager started!
+[21:56:32] Starting rpapartments
+[21:56:32] Error/warning while compiling script!
+[21:56:32] Error (CS1002) at 22: ; expected
+[21:56:32] ERROR STARTING RESOURCE rpapartments
+[21:56:32] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[21:56:32] Started! Waiting for connections.
+[21:56:57] Terminating...
+[21:56:57] Stopping helpmanager
+[21:56:57] Stopped helpmanager!
+[21:56:57] Stopping speedometer
+[21:56:57] Stopped speedometer!
+[21:56:57] Stopping freeroam
+[21:56:57] Stopped freeroam!
+[21:56:57] Stopping admin
+[21:56:57] Stopped admin!
+-> SERVER STARTED AT 14/01/2017 21:57:01[21:57:01] Starting...
+[21:57:02] Loading resources...
+[21:57:02] Starting admin
+[21:57:02] Resource admin started!
+[21:57:02] Starting freeroam
+[21:57:02] Resource freeroam started!
+[21:57:02] Starting speedometer
+[21:57:02] Resource speedometer started!
+[21:57:02] Starting helpmanager
+[21:57:02] Resource helpmanager started!
+[21:57:02] Starting rpapartments
+[21:57:02] Resource rpapartments started!
+[21:57:02] Started! Waiting for connections.
+[21:57:02] rpapartments has started!
+[21:57:40] Terminating...
+[21:57:40] Stopping rpapartments
+[21:57:40] Stopped rpapartments!
+[21:57:40] Stopping helpmanager
+[21:57:40] Stopped helpmanager!
+[21:57:40] Stopping speedometer
+[21:57:40] Stopped speedometer!
+[21:57:40] Stopping freeroam
+[21:57:40] Stopped freeroam!
+[21:57:40] Stopping admin
+[21:57:40] Stopped admin!
+-> SERVER STARTED AT 14/01/2017 21:58:25[21:58:25] Starting...
+[21:58:25] Loading resources...
+[21:58:25] Starting admin
+[21:58:25] Resource admin started!
+[21:58:25] Starting freeroam
+[21:58:26] Resource freeroam started!
+[21:58:26] Starting speedometer
+[21:58:26] Resource speedometer started!
+[21:58:26] Starting helpmanager
+[21:58:26] Resource helpmanager started!
+[21:58:26] Starting rpapartments
+[21:58:26] Error/warning while compiling script!
+[21:58:26] Error (CS0246) at 9: The type or namespace name 'boolean' could not be found (are you missing a using directive or an assembly reference?)
+[21:58:26] ERROR STARTING RESOURCE rpapartments
+[21:58:26] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[21:58:26] Started! Waiting for connections.
+[21:58:30] Terminating...
+[21:58:30] Stopping helpmanager
+[21:58:30] Stopped helpmanager!
+[21:58:30] Stopping speedometer
+[21:58:30] Stopped speedometer!
+[21:58:30] Stopping freeroam
+[21:58:30] Stopped freeroam!
+[21:58:30] Stopping admin
+[21:58:30] Stopped admin!
+-> SERVER STARTED AT 14/01/2017 21:58:49[21:58:49] Starting...
+[21:58:49] Loading resources...
+[21:58:49] Starting admin
+[21:58:50] Resource admin started!
+[21:58:50] Starting freeroam
+[21:58:50] Resource freeroam started!
+[21:58:50] Starting speedometer
+[21:58:50] Resource speedometer started!
+[21:58:50] Starting helpmanager
+[21:58:50] Resource helpmanager started!
+[21:58:50] Starting rpapartments
+[21:58:51] Error/warning while compiling script!
+[21:58:51] Error (CS0246) at 9: The type or namespace name 'Bool' could not be found (are you missing a using directive or an assembly reference?)
+[21:58:51] ERROR STARTING RESOURCE rpapartments
+[21:58:51] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[21:58:51] Started! Waiting for connections.
+[21:59:04] Terminating...
+[21:59:04] Stopping helpmanager
+[21:59:04] Stopped helpmanager!
+[21:59:04] Stopping speedometer
+[21:59:04] Stopped speedometer!
+[21:59:04] Stopping freeroam
+[21:59:04] Stopped freeroam!
+[21:59:04] Stopping admin
+[21:59:05] Stopped admin!
+-> SERVER STARTED AT 14/01/2017 21:59:08[21:59:08] Starting...
+[21:59:09] Loading resources...
+[21:59:09] Starting admin
+[21:59:09] Resource admin started!
+[21:59:09] Starting freeroam
+[21:59:10] Resource freeroam started!
+[21:59:10] Starting speedometer
+[21:59:10] Resource speedometer started!
+[21:59:10] Starting helpmanager
+[21:59:10] Resource helpmanager started!
+[21:59:10] Starting rpapartments
+[21:59:10] Resource rpapartments started!
+[21:59:10] rpapartments has started!
+[21:59:10] Started! Waiting for connections.
+[21:59:16] Initiating connection: [127.0.0.1:6002]
+[21:59:16] Processing connection: jamesyoui (jamesyoui) [127.0.0.1]
+[21:59:16] Connection established: jamesyoui (jamesyoui) [127.0.0.1]
+[21:59:26] Initiating connection: [192.168.1.114:6000]
+[21:59:26] Processing connection: PurpleSharkX (_MrGibbs_) [192.168.1.114]
+[21:59:27] Connection established: PurpleSharkX (_MrGibbs_) [192.168.1.114]
+[21:59:54] Player disconnected: jamesyoui (jamesyoui) [127.0.0.1], reason: Quit
+[22:00:07] Player disconnected: PurpleSharkX (_MrGibbs_) [192.168.1.114], reason: Switching servers
+-> SERVER STARTED AT 15/01/2017 20:18:24[20:18:24] Starting...
+[20:18:25] Loading resources...
+[20:18:25] Starting admin
+[20:18:25] Resource admin started!
+[20:18:25] Starting freeroam
+[20:18:26] Resource freeroam started!
+[20:18:26] Starting speedometer
+[20:18:26] Resource speedometer started!
+[20:18:26] Starting helpmanager
+[20:18:26] Resource helpmanager started!
+[20:18:26] Starting rpapartments
+[20:18:26] ERROR STARTING RESOURCE rpapartments
+[20:18:26] System.IO.FileNotFoundException: Resource does not exist.
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 417
+[20:18:26] Started! Waiting for connections.
+[20:19:16] Terminating...
+[20:19:16] Stopping helpmanager
+[20:19:16] Stopped helpmanager!
+[20:19:16] Stopping speedometer
+[20:19:16] Stopped speedometer!
+[20:19:16] Stopping freeroam
+[20:19:16] Stopped freeroam!
+[20:19:16] Stopping admin
+[20:19:16] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 20:19:19[20:19:19] Starting...
+[20:19:19] Loading resources...
+[20:19:20] Starting admin
+[20:19:20] Resource admin started!
+[20:19:20] Starting freeroam
+[20:19:20] Resource freeroam started!
+[20:19:20] Starting speedometer
+[20:19:20] Resource speedometer started!
+[20:19:20] Starting helpmanager
+[20:19:20] Resource helpmanager started!
+[20:19:20] Starting apartmentlife
+[20:19:20] ERROR STARTING RESOURCE apartmentlife
+[20:19:20] System.IO.FileNotFoundException: Could not find file 'C:\Users\jshe10\Downloads\SherriffRP\SherriffRP\resources\apartmentlife\rpapartments.cs'.
+File name: 'C:\Users\jshe10\Downloads\SherriffRP\SherriffRP\resources\apartmentlife\rpapartments.cs'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding, Boolean checkHost)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 599
+[20:19:20] Started! Waiting for connections.
+[20:19:36] Terminating...
+[20:19:36] Stopping helpmanager
+[20:19:36] Stopped helpmanager!
+[20:19:36] Stopping speedometer
+[20:19:36] Stopped speedometer!
+[20:19:36] Stopping freeroam
+[20:19:36] Stopped freeroam!
+[20:19:36] Stopping admin
+[20:19:36] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 20:19:38[20:19:38] Starting...
+[20:19:39] Loading resources...
+[20:19:39] Starting admin
+[20:19:39] Resource admin started!
+[20:19:39] Starting freeroam
+[20:19:39] Resource freeroam started!
+[20:19:39] Starting speedometer
+[20:19:39] Resource speedometer started!
+[20:19:39] Starting helpmanager
+[20:19:39] Resource helpmanager started!
+[20:19:39] Starting apartmentlife
+[20:19:39] Error/warning while compiling script!
+[20:19:39] Error (CS1514) at 11: { expected
+[20:19:39] Error (CS1519) at 11: Invalid token '(' in class, struct, or interface member declaration
+[20:19:39] ERROR STARTING RESOURCE apartmentlife
+[20:19:39] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[20:19:39] Started! Waiting for connections.
+[20:21:02] Terminating...
+[20:21:02] Stopping helpmanager
+[20:21:02] Stopped helpmanager!
+[20:21:02] Stopping speedometer
+[20:21:02] Stopped speedometer!
+[20:21:02] Stopping freeroam
+[20:21:02] Stopped freeroam!
+[20:21:02] Stopping admin
+[20:21:02] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 20:21:04[20:21:04] Starting...
+[20:21:04] Loading resources...
+[20:21:04] Starting admin
+[20:21:05] Resource admin started!
+[20:21:05] Starting freeroam
+[20:21:05] Resource freeroam started!
+[20:21:05] Starting speedometer
+[20:21:05] Resource speedometer started!
+[20:21:05] Starting helpmanager
+[20:21:05] Resource helpmanager started!
+[20:21:05] Starting apartmentlife
+[20:21:05] Error/warning while compiling script!
+[20:21:05] Error (CS0234) at 6: The type or namespace name 'Xml' does not exist in the namespace 'System' (are you missing an assembly reference?)
+[20:21:05] Error (CS0246) at 106: The type or namespace name 'XmlIgnore' could not be found (are you missing a using directive or an assembly reference?)
+[20:21:05] Error (CS0246) at 106: The type or namespace name 'XmlIgnoreAttribute' could not be found (are you missing a using directive or an assembly reference?)
+[20:21:05] Error (CS0246) at 108: The type or namespace name 'XmlIgnore' could not be found (are you missing a using directive or an assembly reference?)
+[20:21:05] Error (CS0246) at 108: The type or namespace name 'XmlIgnoreAttribute' could not be found (are you missing a using directive or an assembly reference?)
+[20:21:05] ERROR STARTING RESOURCE apartmentlife
+[20:21:05] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[20:21:05] Started! Waiting for connections.
+[20:21:18] Terminating...
+[20:21:18] Stopping helpmanager
+[20:21:18] Stopped helpmanager!
+[20:21:18] Stopping speedometer
+[20:21:18] Stopped speedometer!
+[20:21:18] Stopping freeroam
+[20:21:18] Stopped freeroam!
+[20:21:18] Stopping admin
+[20:21:18] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 20:21:22[20:21:22] Starting...
+[20:21:22] Loading resources...
+[20:21:22] Starting admin
+[20:21:22] Resource admin started!
+[20:21:22] Starting freeroam
+[20:21:22] Resource freeroam started!
+[20:21:22] Starting speedometer
+[20:21:22] Resource speedometer started!
+[20:21:22] Starting helpmanager
+[20:21:23] Resource helpmanager started!
+[20:21:23] Starting apartmentlife
+[20:21:23] Error/warning while compiling script!
+[20:21:23] Error (CS0246) at 105: The type or namespace name 'XmlIgnore' could not be found (are you missing a using directive or an assembly reference?)
+[20:21:23] Error (CS0246) at 105: The type or namespace name 'XmlIgnoreAttribute' could not be found (are you missing a using directive or an assembly reference?)
+[20:21:23] Error (CS0246) at 107: The type or namespace name 'XmlIgnore' could not be found (are you missing a using directive or an assembly reference?)
+[20:21:23] Error (CS0246) at 107: The type or namespace name 'XmlIgnoreAttribute' could not be found (are you missing a using directive or an assembly reference?)
+[20:21:23] ERROR STARTING RESOURCE apartmentlife
+[20:21:23] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[20:21:23] Started! Waiting for connections.
+[20:21:32] Terminating...
+[20:21:32] Stopping helpmanager
+[20:21:32] Stopped helpmanager!
+[20:21:32] Stopping speedometer
+[20:21:32] Stopped speedometer!
+[20:21:32] Stopping freeroam
+[20:21:32] Stopped freeroam!
+[20:21:32] Stopping admin
+[20:21:32] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 20:21:42[20:21:42] Starting...
+[20:21:43] Loading resources...
+[20:21:43] Starting admin
+[20:21:43] Resource admin started!
+[20:21:43] Starting freeroam
+[20:21:43] Resource freeroam started!
+[20:21:43] Starting speedometer
+[20:21:43] Resource speedometer started!
+[20:21:43] Starting helpmanager
+[20:21:43] Resource helpmanager started!
+[20:21:43] Starting apartmentlife
+[20:21:43] Error/warning while compiling script!
+[20:21:43] Error (CS0234) at 6: The type or namespace name 'Xml' does not exist in the namespace 'System' (are you missing an assembly reference?)
+[20:21:43] Error (CS0246) at 106: The type or namespace name 'XmlIgnore' could not be found (are you missing a using directive or an assembly reference?)
+[20:21:43] Error (CS0246) at 106: The type or namespace name 'XmlIgnoreAttribute' could not be found (are you missing a using directive or an assembly reference?)
+[20:21:43] Error (CS0246) at 108: The type or namespace name 'XmlIgnore' could not be found (are you missing a using directive or an assembly reference?)
+[20:21:43] Error (CS0246) at 108: The type or namespace name 'XmlIgnoreAttribute' could not be found (are you missing a using directive or an assembly reference?)
+[20:21:43] ERROR STARTING RESOURCE apartmentlife
+[20:21:43] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[20:21:43] Started! Waiting for connections.
+[20:23:10] Terminating...
+[20:23:10] Stopping helpmanager
+[20:23:10] Stopped helpmanager!
+[20:23:10] Stopping speedometer
+[20:23:10] Stopped speedometer!
+[20:23:10] Stopping freeroam
+[20:23:10] Stopped freeroam!
+[20:23:10] Stopping admin
+[20:23:10] Stopped admin!
