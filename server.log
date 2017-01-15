@@ -573,3 +573,1910 @@ Parameter name: source
 [20:23:10] Stopped freeroam!
 [20:23:10] Stopping admin
 [20:23:10] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 20:36:40[20:36:40] Starting...
+[20:36:40] Loading resources...
+[20:36:41] Starting admin
+[20:36:41] Resource admin started!
+[20:36:41] Starting freeroam
+[20:36:41] Resource freeroam started!
+[20:36:41] Starting speedometer
+[20:36:41] Resource speedometer started!
+[20:36:41] Starting helpmanager
+[20:36:41] Resource helpmanager started!
+[20:36:41] Starting apartmentlife
+[20:36:42] Error/warning while compiling script!
+[20:36:42] Error (CS0234) at 6: The type or namespace name 'Xml' does not exist in the namespace 'System' (are you missing an assembly reference?)
+[20:36:42] Error (CS0246) at 106: The type or namespace name 'XmlIgnore' could not be found (are you missing a using directive or an assembly reference?)
+[20:36:42] Error (CS0246) at 106: The type or namespace name 'XmlIgnoreAttribute' could not be found (are you missing a using directive or an assembly reference?)
+[20:36:42] Error (CS0246) at 108: The type or namespace name 'XmlIgnore' could not be found (are you missing a using directive or an assembly reference?)
+[20:36:42] Error (CS0246) at 108: The type or namespace name 'XmlIgnoreAttribute' could not be found (are you missing a using directive or an assembly reference?)
+[20:36:42] ERROR STARTING RESOURCE apartmentlife
+[20:36:42] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[20:36:42] Started! Waiting for connections.
+-> SERVER STARTED AT 15/01/2017 20:39:23[20:39:23] Starting...
+[20:39:23] ERROR: Socket Exception when starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted
+[20:39:26] Terminating...
+[20:39:32] Terminating...
+[20:39:32] Stopping helpmanager
+[20:39:32] Stopped helpmanager!
+[20:39:32] Stopping speedometer
+[20:39:32] Stopped speedometer!
+[20:39:32] Stopping freeroam
+[20:39:32] Stopped freeroam!
+[20:39:32] Stopping admin
+[20:39:32] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 20:39:37[20:39:37] Starting...
+[20:39:37] Loading resources...
+[20:39:37] Starting admin
+[20:39:37] Resource admin started!
+[20:39:37] Starting freeroam
+[20:39:37] Resource freeroam started!
+[20:39:37] Starting speedometer
+[20:39:38] Resource speedometer started!
+[20:39:38] Starting helpmanager
+[20:39:38] Resource helpmanager started!
+[20:39:38] Starting apartmentlife
+[20:39:38] Error/warning while compiling script!
+[20:39:38] Error (CS0103) at 47: The name 'theIdForTheDimensionCouldBePlayerID' does not exist in the current context
+[20:39:38] Error (CS0103) at 48: The name 'thePlayersApartmentVector' does not exist in the current context
+[20:39:38] Error (CS0103) at 16: The name 'ACCOUNT_FOLDER' does not exist in the current context
+[20:39:38] Error (CS0103) at 18: The name 'ACCOUNT_FOLDER' does not exist in the current context
+[20:39:38] Error (CS0103) at 25: The name 'ACCOUNT_FOLDER' does not exist in the current context
+[20:39:38] Error (CS0103) at 31: The name 'player' does not exist in the current context
+[20:39:38] Error (CS0103) at 54: The name 'playerObject' does not exist in the current context
+[20:39:38] Error (CS1061) at 69: 'System.Reflection.PropertyInfo' does not contain a definition for 'GetCustomAttriutes' and no extension method 'GetCustomAttriutes' accepting a first argument of type 'System.Reflection.PropertyInfo' could be found (are you missing a using directive or an assembly reference?)
+[20:39:38] Error (CS1061) at 93: 'System.Reflection.PropertyInfo' does not contain a definition for 'name' and no extension method 'name' accepting a first argument of type 'System.Reflection.PropertyInfo' could be found (are you missing a using directive or an assembly reference?)
+[20:39:38] Error (CS1502) at 15: The best overloaded method match for 'ApartmentLifeResource.Database.IsPlayerLoggedIn(string)' has some invalid arguments
+[20:39:38] Error (CS1503) at 15: Argument 1: cannot convert from 'GTANetworkServer.Client' to 'string'
+[20:39:38] Error (CS1502) at 36: The best overloaded method match for 'ApartmentLifeResource.Database.IsPlayerLoggedIn(string)' has some invalid arguments
+[20:39:38] Error (CS1503) at 36: Argument 1: cannot convert from 'GTANetworkServer.Client' to 'string'
+[20:39:38] ERROR STARTING RESOURCE apartmentlife
+[20:39:38] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[20:39:38] Started! Waiting for connections.
+[20:40:36] Terminating...
+[20:40:36] Stopping helpmanager
+[20:40:36] Stopped helpmanager!
+[20:40:36] Stopping speedometer
+[20:40:36] Stopped speedometer!
+[20:40:36] Stopping freeroam
+[20:40:36] Stopped freeroam!
+[20:40:36] Stopping admin
+[20:40:36] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 20:40:38[20:40:38] Starting...
+[20:40:39] Loading resources...
+[20:40:39] Starting admin
+[20:40:39] Resource admin started!
+[20:40:39] Starting freeroam
+[20:40:39] Resource freeroam started!
+[20:40:39] Starting speedometer
+[20:40:40] Resource speedometer started!
+[20:40:40] Starting helpmanager
+[20:40:40] Resource helpmanager started!
+[20:40:40] Starting apartmentlife
+[20:40:40] Error/warning while compiling script!
+[20:40:40] Error (CS0103) at 47: The name 'theIdForTheDimensionCouldBePlayerID' does not exist in the current context
+[20:40:40] Error (CS0103) at 48: The name 'thePlayersApartmentVector' does not exist in the current context
+[20:40:40] Error (CS0103) at 31: The name 'player' does not exist in the current context
+[20:40:40] Error (CS0103) at 54: The name 'playerObject' does not exist in the current context
+[20:40:40] Error (CS1061) at 69: 'System.Reflection.PropertyInfo' does not contain a definition for 'GetCustomAttriutes' and no extension method 'GetCustomAttriutes' accepting a first argument of type 'System.Reflection.PropertyInfo' could be found (are you missing a using directive or an assembly reference?)
+[20:40:40] Error (CS1061) at 93: 'System.Reflection.PropertyInfo' does not contain a definition for 'name' and no extension method 'name' accepting a first argument of type 'System.Reflection.PropertyInfo' could be found (are you missing a using directive or an assembly reference?)
+[20:40:40] Error (CS1502) at 15: The best overloaded method match for 'ApartmentLifeResource.Database.IsPlayerLoggedIn(string)' has some invalid arguments
+[20:40:40] Error (CS1503) at 15: Argument 1: cannot convert from 'GTANetworkServer.Client' to 'string'
+[20:40:40] Error (CS1502) at 36: The best overloaded method match for 'ApartmentLifeResource.Database.IsPlayerLoggedIn(string)' has some invalid arguments
+[20:40:40] Error (CS1503) at 36: Argument 1: cannot convert from 'GTANetworkServer.Client' to 'string'
+[20:40:40] ERROR STARTING RESOURCE apartmentlife
+[20:40:40] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[20:40:40] Started! Waiting for connections.
+[20:42:25] Terminating...
+[20:42:25] Stopping helpmanager
+[20:42:25] Stopped helpmanager!
+[20:42:25] Stopping speedometer
+[20:42:25] Stopped speedometer!
+[20:42:25] Stopping freeroam
+[20:42:25] Stopped freeroam!
+[20:42:25] Stopping admin
+[20:42:25] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 20:42:27[20:42:27] Starting...
+[20:42:28] Loading resources...
+[20:42:28] Starting admin
+[20:42:28] Resource admin started!
+[20:42:28] Starting freeroam
+[20:42:28] Resource freeroam started!
+[20:42:28] Starting speedometer
+[20:42:28] Resource speedometer started!
+[20:42:28] Starting helpmanager
+[20:42:28] Resource helpmanager started!
+[20:42:28] Starting apartmentlife
+[20:42:28] Error/warning while compiling script!
+[20:42:28] Error (CS0103) at 31: The name 'player' does not exist in the current context
+[20:42:28] Error (CS0103) at 54: The name 'playerObject' does not exist in the current context
+[20:42:28] Error (CS1061) at 69: 'System.Reflection.PropertyInfo' does not contain a definition for 'GetCustomAttriutes' and no extension method 'GetCustomAttriutes' accepting a first argument of type 'System.Reflection.PropertyInfo' could be found (are you missing a using directive or an assembly reference?)
+[20:42:28] Error (CS1061) at 93: 'System.Reflection.PropertyInfo' does not contain a definition for 'name' and no extension method 'name' accepting a first argument of type 'System.Reflection.PropertyInfo' could be found (are you missing a using directive or an assembly reference?)
+[20:42:28] Error (CS1502) at 15: The best overloaded method match for 'ApartmentLifeResource.Database.IsPlayerLoggedIn(string)' has some invalid arguments
+[20:42:28] Error (CS1503) at 15: Argument 1: cannot convert from 'GTANetworkServer.Client' to 'string'
+[20:42:28] Error (CS1502) at 36: The best overloaded method match for 'ApartmentLifeResource.Database.IsPlayerLoggedIn(string)' has some invalid arguments
+[20:42:28] Error (CS1503) at 36: Argument 1: cannot convert from 'GTANetworkServer.Client' to 'string'
+[20:42:28] ERROR STARTING RESOURCE apartmentlife
+[20:42:28] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[20:42:28] Started! Waiting for connections.
+[20:44:29] Terminating...
+[20:44:29] Stopping helpmanager
+[20:44:29] Stopped helpmanager!
+[20:44:29] Stopping speedometer
+[20:44:29] Stopped speedometer!
+[20:44:29] Stopping freeroam
+[20:44:29] Stopped freeroam!
+[20:44:29] Stopping admin
+[20:44:29] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 20:44:32[20:44:32] Starting...
+[20:44:32] Loading resources...
+[20:44:32] Starting admin
+[20:44:33] Resource admin started!
+[20:44:33] Starting freeroam
+[20:44:33] Resource freeroam started!
+[20:44:33] Starting speedometer
+[20:44:33] Resource speedometer started!
+[20:44:33] Starting helpmanager
+[20:44:33] Resource helpmanager started!
+[20:44:33] Starting apartmentlife
+[20:44:33] Error/warning while compiling script!
+[20:44:33] Error (CS1502) at 31: The best overloaded method match for 'GTANetworkServer.API.getEntityData(GTANetworkShared.NetHandle, string)' has some invalid arguments
+[20:44:33] Error (CS1503) at 31: Argument 1: cannot convert from 'string' to 'GTANetworkShared.NetHandle'
+[20:44:33] Error (CS0103) at 54: The name 'playerObject' does not exist in the current context
+[20:44:33] Error (CS1061) at 69: 'System.Reflection.PropertyInfo' does not contain a definition for 'GetCustomAttriutes' and no extension method 'GetCustomAttriutes' accepting a first argument of type 'System.Reflection.PropertyInfo' could be found (are you missing a using directive or an assembly reference?)
+[20:44:33] Error (CS1061) at 93: 'System.Reflection.PropertyInfo' does not contain a definition for 'name' and no extension method 'name' accepting a first argument of type 'System.Reflection.PropertyInfo' could be found (are you missing a using directive or an assembly reference?)
+[20:44:33] Error (CS1502) at 15: The best overloaded method match for 'ApartmentLifeResource.Database.IsPlayerLoggedIn(string)' has some invalid arguments
+[20:44:33] Error (CS1503) at 15: Argument 1: cannot convert from 'GTANetworkServer.Client' to 'string'
+[20:44:33] Error (CS1502) at 36: The best overloaded method match for 'ApartmentLifeResource.Database.IsPlayerLoggedIn(string)' has some invalid arguments
+[20:44:33] Error (CS1503) at 36: Argument 1: cannot convert from 'GTANetworkServer.Client' to 'string'
+[20:44:33] ERROR STARTING RESOURCE apartmentlife
+[20:44:33] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[20:44:33] Started! Waiting for connections.
+[20:45:12] Terminating...
+[20:45:12] Stopping helpmanager
+[20:45:12] Stopped helpmanager!
+[20:45:12] Stopping speedometer
+[20:45:12] Stopped speedometer!
+[20:45:12] Stopping freeroam
+[20:45:12] Stopped freeroam!
+[20:45:12] Stopping admin
+[20:45:12] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 20:45:15[20:45:15] Starting...
+[20:45:15] Loading resources...
+[20:45:15] Starting admin
+[20:45:15] Resource admin started!
+[20:45:15] Starting freeroam
+[20:45:16] Resource freeroam started!
+[20:45:16] Starting speedometer
+[20:45:16] Resource speedometer started!
+[20:45:16] Starting helpmanager
+[20:45:16] Resource helpmanager started!
+[20:45:16] Starting apartmentlife
+[20:45:16] Error/warning while compiling script!
+[20:45:16] Error (CS0103) at 54: The name 'playerObject' does not exist in the current context
+[20:45:16] Error (CS1061) at 69: 'System.Reflection.PropertyInfo' does not contain a definition for 'GetCustomAttriutes' and no extension method 'GetCustomAttriutes' accepting a first argument of type 'System.Reflection.PropertyInfo' could be found (are you missing a using directive or an assembly reference?)
+[20:45:16] Error (CS1061) at 93: 'System.Reflection.PropertyInfo' does not contain a definition for 'name' and no extension method 'name' accepting a first argument of type 'System.Reflection.PropertyInfo' could be found (are you missing a using directive or an assembly reference?)
+[20:45:16] ERROR STARTING RESOURCE apartmentlife
+[20:45:16] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[20:45:16] Started! Waiting for connections.
+[20:45:30] Terminating...
+[20:45:30] Stopping helpmanager
+[20:45:30] Stopped helpmanager!
+[20:45:30] Stopping speedometer
+[20:45:30] Stopped speedometer!
+[20:45:30] Stopping freeroam
+[20:45:30] Stopped freeroam!
+[20:45:30] Stopping admin
+[20:45:30] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 20:45:31[20:45:31] Starting...
+[20:45:31] Loading resources...
+[20:45:31] Starting admin
+[20:45:32] Resource admin started!
+[20:45:32] Starting freeroam
+[20:45:32] Resource freeroam started!
+[20:45:32] Starting speedometer
+[20:45:32] Resource speedometer started!
+[20:45:32] Starting helpmanager
+[20:45:32] Resource helpmanager started!
+[20:45:32] Starting apartmentlife
+[20:45:32] Error/warning while compiling script!
+[20:45:32] Error (CS1061) at 69: 'System.Reflection.PropertyInfo' does not contain a definition for 'GetCustomAttriutes' and no extension method 'GetCustomAttriutes' accepting a first argument of type 'System.Reflection.PropertyInfo' could be found (are you missing a using directive or an assembly reference?)
+[20:45:32] Error (CS1061) at 93: 'System.Reflection.PropertyInfo' does not contain a definition for 'name' and no extension method 'name' accepting a first argument of type 'System.Reflection.PropertyInfo' could be found (are you missing a using directive or an assembly reference?)
+[20:45:32] ERROR STARTING RESOURCE apartmentlife
+[20:45:32] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[20:45:32] Started! Waiting for connections.
+[20:46:19] Terminating...
+[20:46:19] Stopping helpmanager
+[20:46:19] Stopped helpmanager!
+[20:46:19] Stopping speedometer
+[20:46:19] Stopped speedometer!
+[20:46:19] Stopping freeroam
+[20:46:19] Stopped freeroam!
+[20:46:19] Stopping admin
+[20:46:19] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 20:46:20[20:46:20] Starting...
+[20:46:21] Loading resources...
+[20:46:21] Starting admin
+[20:46:21] Resource admin started!
+[20:46:21] Starting freeroam
+[20:46:21] Resource freeroam started!
+[20:46:21] Starting speedometer
+[20:46:21] Resource speedometer started!
+[20:46:21] Starting helpmanager
+[20:46:21] Resource helpmanager started!
+[20:46:21] Starting apartmentlife
+[20:46:21] Error/warning while compiling script!
+[20:46:21] Error (CS1061) at 69: 'System.Reflection.PropertyInfo' does not contain a definition for 'GetCustomAttriutes' and no extension method 'GetCustomAttriutes' accepting a first argument of type 'System.Reflection.PropertyInfo' could be found (are you missing a using directive or an assembly reference?)
+[20:46:21] Error (CS1061) at 93: 'System.Reflection.PropertyInfo' does not contain a definition for 'name' and no extension method 'name' accepting a first argument of type 'System.Reflection.PropertyInfo' could be found (are you missing a using directive or an assembly reference?)
+[20:46:21] ERROR STARTING RESOURCE apartmentlife
+[20:46:21] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[20:46:21] Started! Waiting for connections.
+[20:50:57] Terminating...
+[20:50:57] Stopping helpmanager
+[20:50:58] Stopped helpmanager!
+[20:50:58] Stopping speedometer
+[20:50:58] Stopped speedometer!
+[20:50:58] Stopping freeroam
+[20:50:58] Stopped freeroam!
+[20:50:58] Stopping admin
+[20:50:58] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 20:51:00[20:51:00] Starting...
+[20:51:00] Loading resources...
+[20:51:00] Starting admin
+[20:51:00] Resource admin started!
+[20:51:00] Starting freeroam
+[20:51:01] Resource freeroam started!
+[20:51:01] Starting speedometer
+[20:51:01] Resource speedometer started!
+[20:51:01] Starting helpmanager
+[20:51:01] Resource helpmanager started!
+[20:51:01] Starting apartmentlife
+[20:51:01] Error/warning while compiling script!
+[20:51:01] Error (CS1061) at 69: 'System.Reflection.PropertyInfo' does not contain a definition for 'GetCustomAttriutes' and no extension method 'GetCustomAttriutes' accepting a first argument of type 'System.Reflection.PropertyInfo' could be found (are you missing a using directive or an assembly reference?)
+[20:51:01] Error (CS1061) at 93: 'System.Reflection.PropertyInfo' does not contain a definition for 'name' and no extension method 'name' accepting a first argument of type 'System.Reflection.PropertyInfo' could be found (are you missing a using directive or an assembly reference?)
+[20:51:01] ERROR STARTING RESOURCE apartmentlife
+[20:51:01] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[20:51:01] Started! Waiting for connections.
+[20:55:14] Terminating...
+[20:55:14] Stopping helpmanager
+[20:55:14] Stopped helpmanager!
+[20:55:14] Stopping speedometer
+[20:55:14] Stopped speedometer!
+[20:55:14] Stopping freeroam
+[20:55:14] Stopped freeroam!
+[20:55:14] Stopping admin
+[20:55:14] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 20:55:17[20:55:17] Starting...
+[20:55:17] Loading resources...
+[20:55:17] Starting admin
+[20:55:18] Resource admin started!
+[20:55:18] Starting freeroam
+[20:55:18] Resource freeroam started!
+[20:55:18] Starting speedometer
+[20:55:18] Resource speedometer started!
+[20:55:18] Starting helpmanager
+[20:55:18] Resource helpmanager started!
+[20:55:18] Starting rpg
+[20:55:18] Stopping freeroam
+[20:55:18] Stopped freeroam!
+[20:55:18] Database initialized!
+[20:55:18] Resource rpg started!
+[20:55:18] rpg has started!
+[20:55:18] Started! Waiting for connections.
+[20:55:20] Terminating...
+[20:55:20] Stopping rpg
+[20:55:20] Stopped rpg!
+[20:55:20] Stopping helpmanager
+[20:55:20] Stopped helpmanager!
+[20:55:20] Stopping speedometer
+[20:55:20] Stopped speedometer!
+[20:55:20] Stopping admin
+[20:55:20] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 20:55:37[20:55:37] Starting...
+[20:55:37] Loading resources...
+[20:55:37] Starting admin
+[20:55:38] Resource admin started!
+[20:55:38] Starting freeroam
+[20:55:38] Resource freeroam started!
+[20:55:38] Starting speedometer
+[20:55:38] Resource speedometer started!
+[20:55:38] Starting helpmanager
+[20:55:38] Resource helpmanager started!
+[20:55:38] Starting apartmentlife
+[20:55:38] Error/warning while compiling script!
+[20:55:38] Error (CS0103) at 17: The name 'Database' does not exist in the current context
+[20:55:38] Error (CS0103) at 15: The name 'Database' does not exist in the current context
+[20:55:38] Error (CS0103) at 21: The name 'Database' does not exist in the current context
+[20:55:38] Error (CS0103) at 28: The name 'Database' does not exist in the current context
+[20:55:38] Error (CS0103) at 36: The name 'Database' does not exist in the current context
+[20:55:38] Error (CS0103) at 42: The name 'Database' does not exist in the current context
+[20:55:38] Error (CS0103) at 48: The name 'Database' does not exist in the current context
+[20:55:38] ERROR STARTING RESOURCE apartmentlife
+[20:55:38] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[20:55:38] Started! Waiting for connections.
+[20:55:41] Terminating...
+[20:55:41] Stopping helpmanager
+[20:55:41] Stopped helpmanager!
+[20:55:41] Stopping speedometer
+[20:55:41] Stopped speedometer!
+[20:55:41] Stopping freeroam
+[20:55:41] Stopped freeroam!
+[20:55:41] Stopping admin
+[20:55:41] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 20:55:50[20:55:50] Starting...
+[20:55:50] Loading resources...
+[20:55:50] Starting admin
+[20:55:50] Resource admin started!
+[20:55:50] Starting freeroam
+[20:55:50] Resource freeroam started!
+[20:55:50] Starting speedometer
+[20:55:50] Resource speedometer started!
+[20:55:50] Starting helpmanager
+[20:55:50] Resource helpmanager started!
+[20:55:50] Starting apartmentlife
+[20:55:51] Database initialized!
+[20:55:51] Resource apartmentlife started!
+[20:55:51] Started! Waiting for connections.
+[20:55:51] apartmentlife has started!
+[20:55:51] Terminating...
+[20:55:51] Stopping apartmentlife
+[20:55:51] Stopped apartmentlife!
+[20:55:51] Stopping helpmanager
+[20:55:51] Stopped helpmanager!
+[20:55:51] Stopping speedometer
+[20:55:51] Stopped speedometer!
+[20:55:51] Stopping freeroam
+[20:55:51] Stopped freeroam!
+[20:55:51] Stopping admin
+[20:55:51] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 20:57:05[20:57:05] Starting...
+[20:57:06] Loading resources...
+[20:57:06] Starting admin
+[20:57:06] Resource admin started!
+[20:57:06] Starting freeroam
+[20:57:06] Resource freeroam started!
+[20:57:06] Starting speedometer
+[20:57:06] Resource speedometer started!
+[20:57:06] Starting helpmanager
+[20:57:06] Resource helpmanager started!
+[20:57:06] Starting apartmentlife
+[20:57:06] Error/warning while compiling script!
+[20:57:06] Error (CS1061) at 69: 'System.Reflection.PropertyInfo' does not contain a definition for 'GetCustomAttriutes' and no extension method 'GetCustomAttriutes' accepting a first argument of type 'System.Reflection.PropertyInfo' could be found (are you missing a using directive or an assembly reference?)
+[20:57:06] Error (CS1061) at 93: 'System.Reflection.PropertyInfo' does not contain a definition for 'name' and no extension method 'name' accepting a first argument of type 'System.Reflection.PropertyInfo' could be found (are you missing a using directive or an assembly reference?)
+[20:57:06] ERROR STARTING RESOURCE apartmentlife
+[20:57:06] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[20:57:06] Started! Waiting for connections.
+[20:57:08] Terminating...
+[20:57:08] Stopping helpmanager
+[20:57:08] Stopped helpmanager!
+[20:57:08] Stopping speedometer
+[20:57:08] Stopped speedometer!
+[20:57:08] Stopping freeroam
+[20:57:08] Stopped freeroam!
+[20:57:08] Stopping admin
+[20:57:08] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 21:00:05[21:00:05] Starting...
+[21:00:05] Loading resources...
+[21:00:05] Starting admin
+[21:00:05] Resource admin started!
+[21:00:05] Starting freeroam
+[21:00:06] Resource freeroam started!
+[21:00:06] Starting speedometer
+[21:00:06] Resource speedometer started!
+[21:00:06] Starting helpmanager
+[21:00:06] Resource helpmanager started!
+[21:00:06] Starting apartmentlife
+[21:00:06] Error/warning while compiling script!
+[21:00:06] Error (CS1061) at 69: 'System.Reflection.PropertyInfo' does not contain a definition for 'GetCustomAttriutes' and no extension method 'GetCustomAttriutes' accepting a first argument of type 'System.Reflection.PropertyInfo' could be found (are you missing a using directive or an assembly reference?)
+[21:00:06] Error (CS1061) at 93: 'System.Reflection.PropertyInfo' does not contain a definition for 'name' and no extension method 'name' accepting a first argument of type 'System.Reflection.PropertyInfo' could be found (are you missing a using directive or an assembly reference?)
+[21:00:06] ERROR STARTING RESOURCE apartmentlife
+[21:00:06] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[21:00:06] Started! Waiting for connections.
+[21:00:07] Terminating...
+[21:00:07] Stopping helpmanager
+[21:00:07] Stopped helpmanager!
+[21:00:07] Stopping speedometer
+[21:00:07] Stopped speedometer!
+[21:00:07] Stopping freeroam
+[21:00:07] Stopped freeroam!
+[21:00:07] Stopping admin
+[21:00:07] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 21:05:33[21:05:33] Starting...
+[21:05:33] Loading resources...
+[21:05:33] Starting admin
+[21:05:33] Resource admin started!
+[21:05:33] Starting freeroam
+[21:05:33] Resource freeroam started!
+[21:05:33] Starting speedometer
+[21:05:33] Resource speedometer started!
+[21:05:33] Starting helpmanager
+[21:05:33] Resource helpmanager started!
+[21:05:33] Starting apartmentlife
+[21:05:34] Error/warning while compiling script!
+[21:05:34] Error (CS1061) at 69: 'System.Reflection.PropertyInfo' does not contain a definition for 'GetCustomAttriutes' and no extension method 'GetCustomAttriutes' accepting a first argument of type 'System.Reflection.PropertyInfo' could be found (are you missing a using directive or an assembly reference?)
+[21:05:34] Error (CS0103) at 77: The name 'ACCOUNT_FOLDER' does not exist in the current context
+[21:05:34] ERROR STARTING RESOURCE apartmentlife
+[21:05:34] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[21:05:34] Started! Waiting for connections.
+[21:05:39] Terminating...
+[21:05:39] Stopping helpmanager
+[21:05:39] Stopped helpmanager!
+[21:05:39] Stopping speedometer
+[21:05:39] Stopped speedometer!
+[21:05:39] Stopping freeroam
+[21:05:39] Stopped freeroam!
+[21:05:39] Stopping admin
+[21:05:39] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 21:05:45[21:05:45] Starting...
+[21:05:45] Loading resources...
+[21:05:46] Starting admin
+[21:05:46] Resource admin started!
+[21:05:46] Starting freeroam
+[21:05:46] Resource freeroam started!
+[21:05:46] Starting speedometer
+[21:05:46] Resource speedometer started!
+[21:05:46] Starting helpmanager
+[21:05:46] Resource helpmanager started!
+[21:05:46] Starting apartmentlife
+[21:05:46] Error/warning while compiling script!
+[21:05:46] Error (CS1061) at 69: 'System.Reflection.PropertyInfo' does not contain a definition for 'GetCustomAttriutes' and no extension method 'GetCustomAttriutes' accepting a first argument of type 'System.Reflection.PropertyInfo' could be found (are you missing a using directive or an assembly reference?)
+[21:05:46] Error (CS0103) at 77: The name 'ACCOUNT_FOLDER' does not exist in the current context
+[21:05:46] ERROR STARTING RESOURCE apartmentlife
+[21:05:46] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[21:05:46] Started! Waiting for connections.
+[21:05:48] Terminating...
+[21:05:48] Stopping helpmanager
+[21:05:48] Stopped helpmanager!
+[21:05:48] Stopping speedometer
+[21:05:48] Stopped speedometer!
+[21:05:48] Stopping freeroam
+[21:05:48] Stopped freeroam!
+[21:05:48] Stopping admin
+[21:05:48] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 21:05:52[21:05:52] Starting...
+[21:05:52] Loading resources...
+[21:05:52] Starting admin
+[21:05:52] Resource admin started!
+[21:05:52] Starting freeroam
+[21:05:52] Resource freeroam started!
+[21:05:52] Starting speedometer
+[21:05:52] Resource speedometer started!
+[21:05:52] Starting helpmanager
+[21:05:52] Resource helpmanager started!
+[21:05:52] Starting apartmentlife
+[21:05:53] Error/warning while compiling script!
+[21:05:53] Error (CS1061) at 69: 'System.Reflection.PropertyInfo' does not contain a definition for 'GetCustomAttriutes' and no extension method 'GetCustomAttriutes' accepting a first argument of type 'System.Reflection.PropertyInfo' could be found (are you missing a using directive or an assembly reference?)
+[21:05:53] Error (CS1061) at 93: 'System.Reflection.PropertyInfo' does not contain a definition for 'name' and no extension method 'name' accepting a first argument of type 'System.Reflection.PropertyInfo' could be found (are you missing a using directive or an assembly reference?)
+[21:05:53] ERROR STARTING RESOURCE apartmentlife
+[21:05:53] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[21:05:53] Started! Waiting for connections.
+[21:05:54] Terminating...
+[21:05:54] Stopping helpmanager
+[21:05:54] Stopped helpmanager!
+[21:05:54] Stopping speedometer
+[21:05:54] Stopped speedometer!
+[21:05:54] Stopping freeroam
+[21:05:54] Stopped freeroam!
+[21:05:54] Stopping admin
+[21:05:54] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 21:06:09[21:06:09] Starting...
+[21:06:09] Loading resources...
+[21:06:09] Starting admin
+[21:06:09] Resource admin started!
+[21:06:09] Starting freeroam
+[21:06:09] Resource freeroam started!
+[21:06:09] Starting speedometer
+[21:06:09] Resource speedometer started!
+[21:06:09] Starting helpmanager
+[21:06:10] Resource helpmanager started!
+[21:06:10] Starting apartmentlife
+[21:06:10] Error/warning while compiling script!
+[21:06:10] Error (CS1061) at 69: 'System.Reflection.PropertyInfo' does not contain a definition for 'GetCustomAttriutes' and no extension method 'GetCustomAttriutes' accepting a first argument of type 'System.Reflection.PropertyInfo' could be found (are you missing a using directive or an assembly reference?)
+[21:06:10] ERROR STARTING RESOURCE apartmentlife
+[21:06:10] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[21:06:10] Started! Waiting for connections.
+[21:06:16] Terminating...
+[21:06:16] Stopping helpmanager
+[21:06:16] Stopped helpmanager!
+[21:06:16] Stopping speedometer
+[21:06:16] Stopped speedometer!
+[21:06:16] Stopping freeroam
+[21:06:16] Stopped freeroam!
+[21:06:16] Stopping admin
+[21:06:16] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 21:11:28[21:11:28] Starting...
+[21:11:28] Loading resources...
+[21:11:28] Starting admin
+[21:11:28] Resource admin started!
+[21:11:28] Starting freeroam
+[21:11:28] Resource freeroam started!
+[21:11:28] Starting speedometer
+[21:11:28] Resource speedometer started!
+[21:11:28] Starting helpmanager
+[21:11:29] Resource helpmanager started!
+[21:11:29] Starting apartmentlife
+[21:11:29] Error/warning while compiling script!
+[21:11:29] Error (CS1061) at 69: 'System.Reflection.PropertyInfo' does not contain a definition for 'GetCustomAttriutes' and no extension method 'GetCustomAttriutes' accepting a first argument of type 'System.Reflection.PropertyInfo' could be found (are you missing a using directive or an assembly reference?)
+[21:11:29] ERROR STARTING RESOURCE apartmentlife
+[21:11:29] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[21:11:29] Started! Waiting for connections.
+[21:11:30] Terminating...
+[21:11:30] Stopping helpmanager
+[21:11:30] Stopped helpmanager!
+[21:11:30] Stopping speedometer
+[21:11:30] Stopped speedometer!
+[21:11:30] Stopping freeroam
+[21:11:30] Stopped freeroam!
+[21:11:30] Stopping admin
+[21:11:30] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 21:11:34[21:11:34] Starting...
+[21:11:35] Loading resources...
+[21:11:35] Starting admin
+[21:11:35] Resource admin started!
+[21:11:35] Starting freeroam
+[21:11:35] Resource freeroam started!
+[21:11:35] Starting speedometer
+[21:11:35] Resource speedometer started!
+[21:11:35] Starting helpmanager
+[21:11:35] Resource helpmanager started!
+[21:11:35] Starting apartmentlife
+[21:11:35] Error/warning while compiling script!
+[21:11:35] Error (CS1061) at 69: 'System.Reflection.PropertyInfo' does not contain a definition for 'GetCustomAttriutes' and no extension method 'GetCustomAttriutes' accepting a first argument of type 'System.Reflection.PropertyInfo' could be found (are you missing a using directive or an assembly reference?)
+[21:11:35] Error (CS1061) at 93: 'System.Reflection.PropertyInfo' does not contain a definition for 'name' and no extension method 'name' accepting a first argument of type 'System.Reflection.PropertyInfo' could be found (are you missing a using directive or an assembly reference?)
+[21:11:35] ERROR STARTING RESOURCE apartmentlife
+[21:11:35] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[21:11:35] Started! Waiting for connections.
+[21:11:39] Terminating...
+[21:11:39] Stopping helpmanager
+[21:11:39] Stopped helpmanager!
+[21:11:39] Stopping speedometer
+[21:11:39] Stopped speedometer!
+[21:11:39] Stopping freeroam
+[21:11:39] Stopped freeroam!
+[21:11:39] Stopping admin
+[21:11:39] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 21:12:30[21:12:30] Starting...
+[21:12:31] Loading resources...
+[21:12:31] Starting admin
+[21:12:31] Resource admin started!
+[21:12:31] Starting freeroam
+[21:12:31] Resource freeroam started!
+[21:12:31] Starting speedometer
+[21:12:31] Resource speedometer started!
+[21:12:31] Starting helpmanager
+[21:12:31] Resource helpmanager started!
+[21:12:31] Starting apartmentlife
+[21:12:31] Error/warning while compiling script!
+[21:12:31] Error (CS1061) at 69: 'System.Reflection.PropertyInfo' does not contain a definition for 'GetCustomAttriutes' and no extension method 'GetCustomAttriutes' accepting a first argument of type 'System.Reflection.PropertyInfo' could be found (are you missing a using directive or an assembly reference?)
+[21:12:31] Error (CS1061) at 93: 'System.Reflection.PropertyInfo' does not contain a definition for 'name' and no extension method 'name' accepting a first argument of type 'System.Reflection.PropertyInfo' could be found (are you missing a using directive or an assembly reference?)
+[21:12:31] ERROR STARTING RESOURCE apartmentlife
+[21:12:31] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[21:12:31] Started! Waiting for connections.
+[21:12:36] Terminating...
+[21:12:36] Stopping helpmanager
+[21:12:36] Stopped helpmanager!
+[21:12:36] Stopping speedometer
+[21:12:36] Stopped speedometer!
+[21:12:36] Stopping freeroam
+[21:12:36] Stopped freeroam!
+[21:12:36] Stopping admin
+[21:12:36] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 21:13:37[21:13:37] Starting...
+[21:13:38] Loading resources...
+[21:13:38] Starting admin
+[21:13:38] Resource admin started!
+[21:13:38] Starting freeroam
+[21:13:38] Resource freeroam started!
+[21:13:38] Starting speedometer
+[21:13:38] Resource speedometer started!
+[21:13:38] Starting helpmanager
+[21:13:38] Resource helpmanager started!
+[21:13:38] Starting apartmentlife
+[21:13:38] Error/warning while compiling script!
+[21:13:38] Error (CS1061) at 69: 'System.Reflection.PropertyInfo' does not contain a definition for 'GetCustomAttriutes' and no extension method 'GetCustomAttriutes' accepting a first argument of type 'System.Reflection.PropertyInfo' could be found (are you missing a using directive or an assembly reference?)
+[21:13:38] ERROR STARTING RESOURCE apartmentlife
+[21:13:38] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[21:13:38] Started! Waiting for connections.
+[21:13:42] Terminating...
+[21:13:42] Stopping helpmanager
+[21:13:42] Stopped helpmanager!
+[21:13:42] Stopping speedometer
+[21:13:42] Stopped speedometer!
+[21:13:42] Stopping freeroam
+[21:13:42] Stopped freeroam!
+[21:13:42] Stopping admin
+[21:13:42] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 21:13:50[21:13:50] Starting...
+[21:13:50] Loading resources...
+[21:13:50] Starting admin
+[21:13:51] Resource admin started!
+[21:13:51] Starting freeroam
+[21:13:51] Resource freeroam started!
+[21:13:51] Starting speedometer
+[21:13:51] Resource speedometer started!
+[21:13:51] Starting helpmanager
+[21:13:51] Resource helpmanager started!
+[21:13:51] Starting apartmentlife
+[21:13:51] Database initialized!
+[21:13:51] Resource apartmentlife started!
+[21:13:51] apartmentlife has started!
+[21:13:51] Started! Waiting for connections.
+[21:13:55] Terminating...
+[21:13:55] Stopping apartmentlife
+[21:13:55] Stopped apartmentlife!
+[21:13:55] Stopping helpmanager
+[21:13:55] Stopped helpmanager!
+[21:13:55] Stopping speedometer
+[21:13:55] Stopped speedometer!
+[21:13:55] Stopping freeroam
+[21:13:55] Stopped freeroam!
+[21:13:55] Stopping admin
+[21:13:55] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 21:17:50[21:17:50] Starting...
+[21:17:50] Loading resources...
+[21:17:50] Starting admin
+[21:17:51] Resource admin started!
+[21:17:51] Starting freeroam
+[21:17:51] Resource freeroam started!
+[21:17:51] Starting speedometer
+[21:17:51] Resource speedometer started!
+[21:17:51] Starting helpmanager
+[21:17:51] Resource helpmanager started!
+[21:17:51] Starting apartmentlife
+[21:17:51] Error/warning while compiling script!
+[21:17:51] Error (CS0246) at 24: The type or namespace name 'Commands' could not be found (are you missing a using directive or an assembly reference?)
+[21:17:51] Error (CS0246) at 24: The type or namespace name 'CommandsAttribute' could not be found (are you missing a using directive or an assembly reference?)
+[21:17:51] ERROR STARTING RESOURCE apartmentlife
+[21:17:51] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[21:17:51] Started! Waiting for connections.
+[21:17:54] Terminating...
+[21:17:54] Stopping helpmanager
+[21:17:54] Stopped helpmanager!
+[21:17:54] Stopping speedometer
+[21:17:54] Stopped speedometer!
+[21:17:54] Stopping freeroam
+[21:17:54] Stopped freeroam!
+[21:17:54] Stopping admin
+[21:17:54] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 21:17:58[21:17:58] Starting...
+[21:17:59] Loading resources...
+[21:17:59] Starting admin
+[21:17:59] Resource admin started!
+[21:17:59] Starting freeroam
+[21:17:59] Resource freeroam started!
+[21:17:59] Starting speedometer
+[21:17:59] Resource speedometer started!
+[21:17:59] Starting helpmanager
+[21:17:59] Resource helpmanager started!
+[21:17:59] Starting apartmentlife
+[21:17:59] Database initialized!
+[21:17:59] Resource apartmentlife started!
+[21:17:59] Started! Waiting for connections.
+[21:17:59] apartmentlife has started!
+[21:21:28] Initiating connection: [127.0.0.1:6000]
+[21:21:28] Processing connection: jamesyoui (jamesyoui) [127.0.0.1]
+[21:21:28] Connection established: jamesyoui (jamesyoui) [127.0.0.1]
+[21:21:56] Terminating...
+[21:21:56] Stopping apartmentlife
+[21:21:56] Stopped apartmentlife!
+[21:21:56] Stopping helpmanager
+[21:21:56] EXCEPTION IN RESOURCE helpmanager INSIDE SCRIPTENGINE HelpManager
+[21:21:56] Stopped helpmanager!
+[21:21:56] Stopping speedometer
+[21:21:56] Stopped speedometer!
+[21:21:56] ProtoBuf.ProtoException: Thread was being aborted. (GTANetworkShared.NativeArgument) ---> System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Reflection.CustomAttribute._CreateCaObject(RuntimeModule pModule, IRuntimeMethodInfo pCtor, Byte** ppBlob, Byte* pEndBlob, Int32* pcNamedArgs)
+   at System.Reflection.CustomAttribute.CreateCaObject(RuntimeModule module, IRuntimeMethodInfo ctor, IntPtr& blob, IntPtr blobEnd, Int32& namedArgs)
+   at System.Reflection.CustomAttribute.GetCustomAttributes(RuntimeModule decoratedModule, Int32 decoratedMetadataToken, Int32 pcaCount, RuntimeType attributeFilterType, Boolean mustBeInheritable, IList derivedAttributes, Boolean isDecoratedTargetSecurityTransparent)
+   at System.Reflection.CustomAttribute.GetCustomAttributes(RuntimeType type, RuntimeType caType, Boolean inherit)
+   at ProtoBuf.Meta.AttributeMap.Create(TypeModel model, Type type, Boolean inherit)
+   at ProtoBuf.Meta.MetaType.GetContractFamily(RuntimeTypeModel model, Type type, AttributeMap[] attributes)
+   at ProtoBuf.Meta.RuntimeTypeModel.FindOrAddAuto(Type type, Boolean demand, Boolean addWithContractOnly, Boolean addEvenIfAutoDisabled)
+   at ProtoBuf.Meta.RuntimeTypeModel.GetKey(Type type, Boolean demand, Boolean getBaseKey)
+   --- End of inner exception stack trace ---
+   at ProtoBuf.Meta.RuntimeTypeModel.GetKey(Type type, Boolean demand, Boolean getBaseKey)
+   at ProtoBuf.Meta.ValueMember.TryGetCoreSerializer(RuntimeTypeModel model, DataFormat dataFormat, Type type, WireType& defaultWireType, Boolean asReference, Boolean dynamicType, Boolean overwriteList, Boolean allowComplexTypes)
+   at ProtoBuf.Meta.ValueMember.BuildSerializer()
+   at ProtoBuf.Meta.MetaType.BuildSerializer()
+   at ProtoBuf.Meta.MetaType.get_Serializer()
+   at ProtoBuf.Meta.RuntimeTypeModel.Serialize(Int32 key, Object value, ProtoWriter dest)
+   at ProtoBuf.Meta.TypeModel.SerializeCore(ProtoWriter writer, Object value)
+   at ProtoBuf.Meta.TypeModel.Serialize(Stream dest, Object value, SerializationContext context)
+   at ProtoBuf.Serializer.Serialize[T](Stream destination, T instance)
+   at GTANetworkServer.GameServer.SerializeBinary(Object data) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 3215
+   at GTANetworkServer.GameServer.SendToAll(Object newData, PacketType packetType, Boolean important, ConnectionChannel channel) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 3166
+   at GTANetworkServer.API.triggerClientEventForAll(String eventName, Object[] args) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\API.cs:line 2597
+   at GTANetworkServer.ScriptingEngine.<>c__DisplayClass45_0.<InvokeServerResourceStop>b__0() in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\ResourceInfo.cs:line 434
+   at GTANetworkServer.ScriptingEngine.MainThreadLoop() in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\ResourceInfo.cs:line 109
+[21:21:56] Stopping freeroam
+[21:21:56] Stopped freeroam!
+[21:21:56] Stopping admin
+[21:21:56] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 21:22:17[21:22:17] Starting...
+[21:22:18] Loading resources...
+[21:22:18] Starting admin
+[21:22:18] Resource admin started!
+[21:22:18] Starting freeroam
+[21:22:18] Resource freeroam started!
+[21:22:18] Starting speedometer
+[21:22:18] Resource speedometer started!
+[21:22:18] Starting helpmanager
+[21:22:18] Resource helpmanager started!
+[21:22:18] Starting apartmentlife
+[21:22:19] Database initialized!
+[21:22:19] Resource apartmentlife started!
+[21:22:19] Started! Waiting for connections.
+[21:22:19] apartmentlife has started!
+[21:22:19] Initiating connection: [127.0.0.1:6000]
+[21:22:19] Processing connection: jamesyoui (jamesyoui) [127.0.0.1]
+[21:22:19] Connection established: jamesyoui (jamesyoui) [127.0.0.1]
+[21:23:08] EXCEPTION IN RESOURCE apartmentlife INSIDE SCRIPTENGINE ApartmentLife
+[21:23:08] System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot convert null to 'int' because it is a non-nullable value type
+   at CallSite.Target(Closure , CallSite , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   at ApartmentLifeResource.ApartmentLife.apartments(Client player, String action, String parameter1)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at GTANetworkServer.ScriptingEngine.<>c__DisplayClass26_0.<InvokeVoidMethod>b__0() in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\ResourceInfo.cs:line 176
+   at GTANetworkServer.ScriptingEngine.MainThreadLoop() in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\ResourceInfo.cs:line 109
+[21:25:01] Terminating...
+[21:25:01] Stopping apartmentlife
+[21:25:01] Stopped apartmentlife!
+[21:25:01] Stopping helpmanager
+[21:25:01] Stopped helpmanager!
+[21:25:01] Stopping speedometer
+[21:25:01] Stopped speedometer!
+[21:25:01] Stopping freeroam
+[21:25:01] Stopped freeroam!
+[21:25:01] Stopping admin
+[21:25:01] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 21:25:03[21:25:03] Starting...
+[21:25:04] Loading resources...
+[21:25:04] Starting admin
+[21:25:04] Resource admin started!
+[21:25:04] Starting freeroam
+[21:25:04] Resource freeroam started!
+[21:25:04] Starting speedometer
+[21:25:04] Resource speedometer started!
+[21:25:04] Starting helpmanager
+[21:25:04] Resource helpmanager started!
+[21:25:04] Starting apartmentlife
+[21:25:04] Database initialized!
+[21:25:04] Resource apartmentlife started!
+[21:25:05] apartmentlife has started!
+[21:25:05] Started! Waiting for connections.
+[21:25:10] Initiating connection: [127.0.0.1:6000]
+[21:25:10] Processing connection: jamesyoui (jamesyoui) [127.0.0.1]
+[21:25:10] Connection established: jamesyoui (jamesyoui) [127.0.0.1]
+[21:25:33] EXCEPTION IN RESOURCE apartmentlife INSIDE SCRIPTENGINE ApartmentLife
+[21:25:33] System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'string' to 'int'
+   at CallSite.Target(Closure , CallSite , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   at ApartmentLifeResource.ApartmentLife.apartments(Client player, String action, String parameter1)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at GTANetworkServer.ScriptingEngine.<>c__DisplayClass26_0.<InvokeVoidMethod>b__0() in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\ResourceInfo.cs:line 176
+   at GTANetworkServer.ScriptingEngine.MainThreadLoop() in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\ResourceInfo.cs:line 109
+[21:26:36] Terminating...
+[21:26:36] Stopping apartmentlife
+[21:26:36] Stopped apartmentlife!
+[21:26:36] Stopping helpmanager
+[21:26:36] Stopped helpmanager!
+[21:26:36] Stopping speedometer
+[21:26:36] Stopped speedometer!
+[21:26:36] Stopping freeroam
+[21:26:36] Stopped freeroam!
+[21:26:36] Stopping admin
+[21:26:36] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 21:26:38[21:26:38] Starting...
+[21:26:38] Loading resources...
+[21:26:38] Starting admin
+[21:26:39] Resource admin started!
+[21:26:39] Starting freeroam
+[21:26:39] Resource freeroam started!
+[21:26:39] Starting speedometer
+[21:26:39] Resource speedometer started!
+[21:26:39] Starting helpmanager
+[21:26:39] Resource helpmanager started!
+[21:26:39] Starting apartmentlife
+[21:26:39] Database initialized!
+[21:26:39] Resource apartmentlife started!
+[21:26:39] apartmentlife has started!
+[21:26:39] Started! Waiting for connections.
+[21:26:43] Initiating connection: [127.0.0.1:6000]
+[21:26:44] Processing connection: jamesyoui (jamesyoui) [127.0.0.1]
+[21:26:44] Connection established: jamesyoui (jamesyoui) [127.0.0.1]
+[21:30:30] Terminating...
+[21:30:30] Stopping apartmentlife
+[21:30:30] Stopped apartmentlife!
+[21:30:30] Stopping helpmanager
+[21:30:30] Stopped helpmanager!
+[21:30:30] Stopping speedometer
+[21:30:30] Stopped speedometer!
+[21:30:30] Stopping freeroam
+[21:30:30] Stopped freeroam!
+[21:30:30] Stopping admin
+[21:30:30] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 21:30:33[21:30:33] Starting...
+[21:30:33] Loading resources...
+[21:30:33] Starting admin
+[21:30:33] Resource admin started!
+[21:30:33] Starting freeroam
+[21:30:33] Resource freeroam started!
+[21:30:33] Starting speedometer
+[21:30:33] Resource speedometer started!
+[21:30:33] Starting helpmanager
+[21:30:34] Resource helpmanager started!
+[21:30:34] Starting apartmentlife
+[21:30:34] Error/warning while compiling script!
+[21:30:34] Error (CS0246) at 31: The type or namespace name 'Commands' could not be found (are you missing a using directive or an assembly reference?)
+[21:30:34] Error (CS0246) at 31: The type or namespace name 'CommandsAttribute' could not be found (are you missing a using directive or an assembly reference?)
+[21:30:34] ERROR STARTING RESOURCE apartmentlife
+[21:30:34] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[21:30:34] Started! Waiting for connections.
+[21:30:35] Terminating...
+[21:30:36] Stopping helpmanager
+[21:30:36] Stopped helpmanager!
+[21:30:36] Stopping speedometer
+[21:30:36] Stopped speedometer!
+[21:30:36] Stopping freeroam
+[21:30:36] Stopped freeroam!
+[21:30:36] Stopping admin
+[21:30:36] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 21:30:41[21:30:41] Starting...
+[21:30:41] Loading resources...
+[21:30:41] Starting admin
+[21:30:42] Resource admin started!
+[21:30:42] Starting freeroam
+[21:30:42] Resource freeroam started!
+[21:30:42] Starting speedometer
+[21:30:42] Resource speedometer started!
+[21:30:42] Starting helpmanager
+[21:30:42] Resource helpmanager started!
+[21:30:42] Starting apartmentlife
+[21:30:42] Error/warning while compiling script!
+[21:30:42] Error (CS1502) at 34: The best overloaded method match for 'GTANetworkServer.API.sendChatMessageToPlayer(GTANetworkServer.Client, string)' has some invalid arguments
+[21:30:42] Error (CS1503) at 34: Argument 2: cannot convert from 'GTANetworkShared.Vector3' to 'string'
+[21:30:42] ERROR STARTING RESOURCE apartmentlife
+[21:30:42] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[21:30:42] Started! Waiting for connections.
+[21:30:48] Terminating...
+[21:30:48] Stopping helpmanager
+[21:30:48] Stopped helpmanager!
+[21:30:48] Stopping speedometer
+[21:30:48] Stopped speedometer!
+[21:30:48] Stopping freeroam
+[21:30:48] Stopped freeroam!
+[21:30:48] Stopping admin
+[21:30:48] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 21:31:03[21:31:03] Starting...
+[21:31:03] Loading resources...
+[21:31:03] Starting admin
+[21:31:03] Resource admin started!
+[21:31:03] Starting freeroam
+[21:31:03] Resource freeroam started!
+[21:31:03] Starting speedometer
+[21:31:03] Resource speedometer started!
+[21:31:03] Starting helpmanager
+[21:31:04] Resource helpmanager started!
+[21:31:04] Starting apartmentlife
+[21:31:04] Database initialized!
+[21:31:04] Resource apartmentlife started!
+[21:31:04] apartmentlife has started!
+[21:31:04] Started! Waiting for connections.
+[21:31:08] Initiating connection: [127.0.0.1:6000]
+[21:31:09] Processing connection: jamesyoui (jamesyoui) [127.0.0.1]
+[21:31:09] Connection established: jamesyoui (jamesyoui) [127.0.0.1]
+[21:33:45] Failed to announce self: master server is not available at this time.
+[21:37:32] Terminating...
+[21:37:32] Stopping apartmentlife
+[21:37:32] Stopped apartmentlife!
+[21:37:32] Stopping helpmanager
+[21:37:32] Stopped helpmanager!
+[21:37:32] Stopping speedometer
+[21:37:32] Stopped speedometer!
+[21:37:32] Stopping freeroam
+[21:37:32] Stopped freeroam!
+[21:37:32] Stopping admin
+[21:37:32] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 21:37:35[21:37:35] Starting...
+[21:37:35] Loading resources...
+[21:37:35] Starting admin
+[21:37:36] Resource admin started!
+[21:37:36] Starting freeroam
+[21:37:36] Resource freeroam started!
+[21:37:36] Starting speedometer
+[21:37:36] Resource speedometer started!
+[21:37:36] Starting helpmanager
+[21:37:36] Resource helpmanager started!
+[21:37:36] Starting apartmentlife
+[21:37:36] Error/warning while compiling script!
+[21:37:36] Error (CS0825) at 13: The contextual keyword 'var' may only appear within a local variable declaration
+[21:37:36] ERROR STARTING RESOURCE apartmentlife
+[21:37:36] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[21:37:36] Started! Waiting for connections.
+[21:37:40] Terminating...
+[21:37:40] Stopping helpmanager
+[21:37:40] Stopped helpmanager!
+[21:37:40] Stopping speedometer
+[21:37:40] Stopped speedometer!
+[21:37:40] Stopping freeroam
+[21:37:40] Stopped freeroam!
+[21:37:40] Stopping admin
+[21:37:40] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 21:39:09[21:39:09] Starting...
+[21:39:10] Loading resources...
+[21:39:10] Starting admin
+[21:39:10] Resource admin started!
+[21:39:10] Starting freeroam
+[21:39:10] Resource freeroam started!
+[21:39:10] Starting speedometer
+[21:39:10] Resource speedometer started!
+[21:39:10] Starting helpmanager
+[21:39:10] Resource helpmanager started!
+[21:39:10] Starting apartmentlife
+[21:39:11] Error/warning while compiling script!
+[21:39:11] Error (CS0120) at 13: An object reference is required for the non-static field, method, or property 'GTANetworkServer.API.create2DColShape(float, float, float, float)'
+[21:39:11] Error (CS0103) at 26: The name 'player' does not exist in the current context
+[21:39:11] ERROR STARTING RESOURCE apartmentlife
+[21:39:11] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[21:39:11] Started! Waiting for connections.
+[21:39:17] Terminating...
+[21:39:17] Stopping helpmanager
+[21:39:17] Stopped helpmanager!
+[21:39:17] Stopping speedometer
+[21:39:17] Stopped speedometer!
+[21:39:17] Stopping freeroam
+[21:39:17] Stopped freeroam!
+[21:39:17] Stopping admin
+[21:39:17] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 21:39:35[21:39:35] Starting...
+[21:39:36] Loading resources...
+[21:39:36] Starting admin
+[21:39:36] Resource admin started!
+[21:39:36] Starting freeroam
+[21:39:36] Resource freeroam started!
+[21:39:36] Starting speedometer
+[21:39:36] Resource speedometer started!
+[21:39:36] Starting helpmanager
+[21:39:36] Resource helpmanager started!
+[21:39:36] Starting apartmentlife
+[21:39:37] Error/warning while compiling script!
+[21:39:37] Error (CS0308) at 13: The non-generic type 'object' cannot be used with type arguments
+[21:39:37] ERROR STARTING RESOURCE apartmentlife
+[21:39:37] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[21:39:37] Started! Waiting for connections.
+[21:39:40] Terminating...
+[21:39:40] Stopping helpmanager
+[21:39:40] Stopped helpmanager!
+[21:39:40] Stopping speedometer
+[21:39:40] Stopped speedometer!
+[21:39:40] Stopping freeroam
+[21:39:40] Stopped freeroam!
+[21:39:40] Stopping admin
+[21:39:40] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 21:40:08[21:40:08] Starting...
+[21:40:09] Loading resources...
+[21:40:09] Starting admin
+[21:40:09] Resource admin started!
+[21:40:09] Starting freeroam
+[21:40:09] Resource freeroam started!
+[21:40:09] Starting speedometer
+[21:40:09] Resource speedometer started!
+[21:40:09] Starting helpmanager
+[21:40:09] Resource helpmanager started!
+[21:40:09] Starting apartmentlife
+[21:40:09] Error/warning while compiling script!
+[21:40:09] Error (CS0103) at 23: The name 'door' does not exist in the current context
+[21:40:09] Error (CS0103) at 25: The name 'player' does not exist in the current context
+[21:40:09] ERROR STARTING RESOURCE apartmentlife
+[21:40:09] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[21:40:09] Started! Waiting for connections.
+[21:40:12] Terminating...
+[21:40:12] Stopping helpmanager
+[21:40:12] Stopped helpmanager!
+[21:40:12] Stopping speedometer
+[21:40:12] Stopped speedometer!
+[21:40:12] Stopping freeroam
+[21:40:12] Stopped freeroam!
+[21:40:12] Stopping admin
+[21:40:12] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 21:41:08[21:41:08] Starting...
+[21:41:09] Loading resources...
+[21:41:09] Starting admin
+[21:41:09] Resource admin started!
+[21:41:09] Starting freeroam
+[21:41:09] Resource freeroam started!
+[21:41:09] Starting speedometer
+[21:41:09] Resource speedometer started!
+[21:41:09] Starting helpmanager
+[21:41:09] Resource helpmanager started!
+[21:41:09] Starting apartmentlife
+[21:41:09] Error/warning while compiling script!
+[21:41:09] Error (CS0103) at 16: The name 'door' does not exist in the current context
+[21:41:09] Error (CS0103) at 23: The name 'door' does not exist in the current context
+[21:41:09] Error (CS1502) at 25: The best overloaded method match for 'GTANetworkServer.API.sendChatMessageToPlayer(GTANetworkServer.Client, string)' has some invalid arguments
+[21:41:09] Error (CS1503) at 25: Argument 1: cannot convert from 'GTANetworkShared.NetHandle' to 'GTANetworkServer.Client'
+[21:41:09] ERROR STARTING RESOURCE apartmentlife
+[21:41:09] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[21:41:09] Started! Waiting for connections.
+[21:41:15] Terminating...
+[21:41:15] Stopping helpmanager
+[21:41:15] Stopped helpmanager!
+[21:41:15] Stopping speedometer
+[21:41:15] Stopped speedometer!
+[21:41:15] Stopping freeroam
+[21:41:15] Stopped freeroam!
+[21:41:15] Stopping admin
+[21:41:15] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 21:41:24[21:41:24] Starting...
+[21:41:25] Loading resources...
+[21:41:25] Starting admin
+[21:41:25] Resource admin started!
+[21:41:25] Starting freeroam
+[21:41:25] Resource freeroam started!
+[21:41:25] Starting speedometer
+[21:41:25] Resource speedometer started!
+[21:41:25] Starting helpmanager
+[21:41:25] Resource helpmanager started!
+[21:41:25] Starting apartmentlife
+[21:41:25] Error/warning while compiling script!
+[21:41:25] Error (CS1519) at 11: Invalid token '=' in class, struct, or interface member declaration
+[21:41:25] Error (CS1519) at 11: Invalid token '(' in class, struct, or interface member declaration
+[21:41:25] ERROR STARTING RESOURCE apartmentlife
+[21:41:25] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[21:41:25] Started! Waiting for connections.
+[21:41:28] Terminating...
+[21:41:28] Stopping helpmanager
+[21:41:28] Stopped helpmanager!
+[21:41:28] Stopping speedometer
+[21:41:28] Stopped speedometer!
+[21:41:28] Stopping freeroam
+[21:41:28] Stopped freeroam!
+[21:41:28] Stopping admin
+[21:41:28] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 21:45:26[21:45:26] Starting...
+[21:45:26] Loading resources...
+[21:45:26] Starting admin
+[21:45:26] Resource admin started!
+[21:45:26] Starting freeroam
+[21:45:27] Resource freeroam started!
+[21:45:27] Starting speedometer
+[21:45:27] Resource speedometer started!
+[21:45:27] Starting helpmanager
+[21:45:27] Resource helpmanager started!
+[21:45:27] Starting apartmentlife
+[21:45:27] Error/warning while compiling script!
+[21:45:27] Error (CS1519) at 11: Invalid token '=' in class, struct, or interface member declaration
+[21:45:27] Error (CS1519) at 11: Invalid token '(' in class, struct, or interface member declaration
+[21:45:27] ERROR STARTING RESOURCE apartmentlife
+[21:45:27] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[21:45:27] Started! Waiting for connections.
+[21:45:28] Terminating...
+[21:45:28] Stopping helpmanager
+[21:45:28] Stopped helpmanager!
+[21:45:28] Stopping speedometer
+[21:45:28] Stopped speedometer!
+[21:45:28] Stopping freeroam
+[21:45:28] Stopped freeroam!
+[21:45:28] Stopping admin
+[21:45:28] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 21:45:34[21:45:34] Starting...
+[21:45:35] Loading resources...
+[21:45:35] Starting admin
+[21:45:35] Resource admin started!
+[21:45:35] Starting freeroam
+[21:45:35] Resource freeroam started!
+[21:45:35] Starting speedometer
+[21:45:35] Resource speedometer started!
+[21:45:35] Starting helpmanager
+[21:45:35] Resource helpmanager started!
+[21:45:35] Starting apartmentlife
+[21:45:35] Error/warning while compiling script!
+[21:45:35] Error (CS1502) at 25: The best overloaded method match for 'GTANetworkServer.API.sendChatMessageToPlayer(GTANetworkServer.Client, string)' has some invalid arguments
+[21:45:35] Error (CS1503) at 25: Argument 1: cannot convert from 'GTANetworkServer.ColShape' to 'GTANetworkServer.Client'
+[21:45:35] Error (CS0103) at 31: The name 'door' does not exist in the current context
+[21:45:35] Error (CS1502) at 33: The best overloaded method match for 'GTANetworkServer.API.sendChatMessageToPlayer(GTANetworkServer.Client, string)' has some invalid arguments
+[21:45:36] Error (CS1503) at 33: Argument 1: cannot convert from 'GTANetworkShared.NetHandle' to 'GTANetworkServer.Client'
+[21:45:36] ERROR STARTING RESOURCE apartmentlife
+[21:45:36] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[21:45:36] Started! Waiting for connections.
+[21:45:44] Terminating...
+[21:45:44] Stopping helpmanager
+[21:45:44] Stopped helpmanager!
+[21:45:44] Stopping speedometer
+[21:45:44] Stopped speedometer!
+[21:45:44] Stopping freeroam
+[21:45:44] Stopped freeroam!
+[21:45:44] Stopping admin
+[21:45:44] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 21:45:49[21:45:49] Starting...
+[21:45:49] Loading resources...
+[21:45:49] Starting admin
+[21:45:50] Resource admin started!
+[21:45:50] Starting freeroam
+[21:45:50] Resource freeroam started!
+[21:45:50] Starting speedometer
+[21:45:50] Resource speedometer started!
+[21:45:50] Starting helpmanager
+[21:45:50] Resource helpmanager started!
+[21:45:50] Starting apartmentlife
+[21:45:50] Error/warning while compiling script!
+[21:45:50] Error (CS1502) at 25: The best overloaded method match for 'GTANetworkServer.API.sendChatMessageToPlayer(GTANetworkServer.Client, string)' has some invalid arguments
+[21:45:50] Error (CS1503) at 25: Argument 1: cannot convert from 'GTANetworkShared.NetHandle' to 'GTANetworkServer.Client'
+[21:45:50] Error (CS0103) at 31: The name 'door' does not exist in the current context
+[21:45:50] Error (CS1502) at 33: The best overloaded method match for 'GTANetworkServer.API.sendChatMessageToPlayer(GTANetworkServer.Client, string)' has some invalid arguments
+[21:45:50] Error (CS1503) at 33: Argument 1: cannot convert from 'GTANetworkShared.NetHandle' to 'GTANetworkServer.Client'
+[21:45:50] ERROR STARTING RESOURCE apartmentlife
+[21:45:50] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[21:45:50] Started! Waiting for connections.
+-> SERVER STARTED AT 15/01/2017 21:46:31[21:46:32] Starting...
+[21:46:32] ERROR: Socket Exception when starting server: Only one usage of each socket address (protocol/network address/port) is normally permitted
+[21:46:33] Started! Waiting for connections.
+[21:46:35] Terminating...
+[21:46:35] Stopping helpmanager
+[21:46:35] Stopped helpmanager!
+[21:46:35] Stopping speedometer
+[21:46:35] Stopped speedometer!
+[21:46:35] Stopping freeroam
+[21:46:35] Stopped freeroam!
+[21:46:35] Stopping admin
+[21:46:35] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 21:46:36[21:46:36] Starting...
+[21:46:36] Loading resources...
+[21:46:36] Starting admin
+[21:46:37] Resource admin started!
+[21:46:37] Starting freeroam
+[21:46:37] Resource freeroam started!
+[21:46:37] Starting speedometer
+[21:46:37] Resource speedometer started!
+[21:46:37] Starting helpmanager
+[21:46:37] Resource helpmanager started!
+[21:46:37] Starting apartmentlife
+[21:46:37] Error/warning while compiling script!
+[21:46:37] Error (CS1002) at 25: ; expected
+[21:46:37] ERROR STARTING RESOURCE apartmentlife
+[21:46:37] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[21:46:37] Started! Waiting for connections.
+[21:46:46] Terminating...
+[21:46:46] Stopping helpmanager
+[21:46:46] Stopped helpmanager!
+[21:46:46] Stopping speedometer
+[21:46:46] Stopped speedometer!
+[21:46:46] Stopping freeroam
+[21:46:46] Stopped freeroam!
+[21:46:46] Stopping admin
+[21:46:46] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 21:46:47[21:46:47] Starting...
+[21:46:48] Loading resources...
+[21:46:48] Starting admin
+[21:46:48] Resource admin started!
+[21:46:48] Starting freeroam
+[21:46:48] Resource freeroam started!
+[21:46:48] Starting speedometer
+[21:46:48] Resource speedometer started!
+[21:46:48] Starting helpmanager
+[21:46:48] Resource helpmanager started!
+[21:46:48] Starting apartmentlife
+[21:46:48] Error/warning while compiling script!
+[21:46:48] Error (CS0103) at 17: The name 'OnEntityEnterColShapeHandler' does not exist in the current context
+[21:46:48] Error (CS0029) at 25: Cannot implicitly convert type 'GTANetworkShared.NetHandle' to 'GTANetworkServer.Client'
+[21:46:48] ERROR STARTING RESOURCE apartmentlife
+[21:46:48] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[21:46:48] Started! Waiting for connections.
+[21:46:56] Terminating...
+[21:46:56] Stopping helpmanager
+[21:46:56] Stopped helpmanager!
+[21:46:56] Stopping speedometer
+[21:46:56] Stopped speedometer!
+[21:46:56] Stopping freeroam
+[21:46:56] Stopped freeroam!
+[21:46:56] Stopping admin
+[21:46:56] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 21:46:58[21:46:58] Starting...
+[21:46:59] Loading resources...
+[21:46:59] Starting admin
+[21:46:59] Resource admin started!
+[21:46:59] Starting freeroam
+[21:46:59] Resource freeroam started!
+[21:46:59] Starting speedometer
+[21:46:59] Resource speedometer started!
+[21:46:59] Starting helpmanager
+[21:46:59] Resource helpmanager started!
+[21:46:59] Starting apartmentlife
+[21:46:59] Error/warning while compiling script!
+[21:46:59] Error (CS0029) at 24: Cannot implicitly convert type 'GTANetworkShared.NetHandle' to 'GTANetworkServer.Client'
+[21:46:59] ERROR STARTING RESOURCE apartmentlife
+[21:47:00] System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at GTANetworkServer.GameServer.StartResource(String resourceName, String father) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 618
+[21:47:00] Started! Waiting for connections.
+[21:47:04] Terminating...
+[21:47:04] Stopping helpmanager
+[21:47:04] Stopped helpmanager!
+[21:47:04] Stopping speedometer
+[21:47:04] Stopped speedometer!
+[21:47:04] Stopping freeroam
+[21:47:04] Stopped freeroam!
+[21:47:05] Stopping admin
+[21:47:05] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 21:47:44[21:47:44] Starting...
+[21:47:45] Loading resources...
+[21:47:45] Starting admin
+[21:47:45] Resource admin started!
+[21:47:45] Starting freeroam
+[21:47:45] Resource freeroam started!
+[21:47:45] Starting speedometer
+[21:47:45] Resource speedometer started!
+[21:47:45] Starting helpmanager
+[21:47:45] Resource helpmanager started!
+[21:47:45] Starting apartmentlife
+[21:47:46] Database initialized!
+[21:47:46] Resource apartmentlife started!
+[21:47:46] Started! Waiting for connections.
+[21:47:46] apartmentlife has started!
+[21:47:54] Initiating connection: [127.0.0.1:6000]
+[21:47:54] Processing connection: jamesyoui (jamesyoui) [127.0.0.1]
+[21:47:55] Connection established: jamesyoui (jamesyoui) [127.0.0.1]
+[21:48:19] Terminating...
+[21:48:19] Stopping apartmentlife
+[21:48:19] Stopped apartmentlife!
+[21:48:19] Stopping helpmanager
+[21:48:19] Stopped helpmanager!
+[21:48:19] Stopping speedometer
+[21:48:19] Stopped speedometer!
+[21:48:19] Stopping freeroam
+[21:48:19] Stopped freeroam!
+[21:48:19] Stopping admin
+[21:48:19] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 21:48:25[21:48:25] Starting...
+[21:48:25] Loading resources...
+[21:48:26] Starting admin
+[21:48:26] Resource admin started!
+[21:48:26] Starting freeroam
+[21:48:26] Resource freeroam started!
+[21:48:26] Starting speedometer
+[21:48:26] Resource speedometer started!
+[21:48:26] Starting helpmanager
+[21:48:26] Resource helpmanager started!
+[21:48:26] Starting apartmentlife
+[21:48:26] Database initialized!
+[21:48:26] Resource apartmentlife started!
+[21:48:26] Started! Waiting for connections.
+[21:48:26] apartmentlife has started!
+[21:48:31] Initiating connection: [127.0.0.1:6000]
+[21:48:31] Processing connection: jamesyoui (jamesyoui) [127.0.0.1]
+[21:48:31] Connection established: jamesyoui (jamesyoui) [127.0.0.1]
+[21:49:28] Terminating...
+[21:49:28] Stopping apartmentlife
+[21:49:28] Stopped apartmentlife!
+[21:49:28] Stopping helpmanager
+[21:49:28] Stopped helpmanager!
+[21:49:28] Stopping speedometer
+[21:49:28] Stopped speedometer!
+[21:49:28] Stopping freeroam
+[21:49:28] Stopped freeroam!
+[21:49:28] Stopping admin
+[21:49:28] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 21:49:36[21:49:36] Starting...
+[21:49:36] Loading resources...
+[21:49:36] Starting admin
+[21:49:36] Resource admin started!
+[21:49:36] Starting freeroam
+[21:49:37] Resource freeroam started!
+[21:49:37] Starting speedometer
+[21:49:37] Resource speedometer started!
+[21:49:37] Starting helpmanager
+[21:49:37] Resource helpmanager started!
+[21:49:37] Starting apartmentlife
+[21:49:37] Database initialized!
+[21:49:37] Resource apartmentlife started!
+[21:49:37] apartmentlife has started!
+[21:49:37] Started! Waiting for connections.
+[21:49:40] Initiating connection: [127.0.0.1:6000]
+[21:49:40] Processing connection: jamesyoui (jamesyoui) [127.0.0.1]
+[21:49:41] Connection established: jamesyoui (jamesyoui) [127.0.0.1]
+[21:50:36] Terminating...
+[21:50:36] Stopping apartmentlife
+[21:50:36] Stopped apartmentlife!
+[21:50:36] Stopping helpmanager
+[21:50:36] Stopped helpmanager!
+[21:50:36] Stopping speedometer
+[21:50:36] Stopped speedometer!
+[21:50:36] Stopping freeroam
+[21:50:36] Stopped freeroam!
+[21:50:36] Stopping admin
+[21:50:36] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 21:50:38[21:50:38] Starting...
+[21:50:38] Loading resources...
+[21:50:38] Starting admin
+[21:50:39] Resource admin started!
+[21:50:39] Starting freeroam
+[21:50:39] Resource freeroam started!
+[21:50:39] Starting speedometer
+[21:50:39] Resource speedometer started!
+[21:50:39] Starting helpmanager
+[21:50:39] Resource helpmanager started!
+[21:50:39] Starting apartmentlife
+[21:50:39] Database initialized!
+[21:50:39] Resource apartmentlife started!
+[21:50:39] apartmentlife has started!
+[21:50:39] Started! Waiting for connections.
+[21:50:44] Initiating connection: [127.0.0.1:6000]
+[21:50:44] Processing connection: jamesyoui (jamesyoui) [127.0.0.1]
+[21:50:45] Connection established: jamesyoui (jamesyoui) [127.0.0.1]
+[21:51:14] Player disconnected: jamesyoui (jamesyoui) [127.0.0.1], reason: Timeout
+[21:51:43] Terminating...
+[21:51:43] Stopping apartmentlife
+[21:51:43] Stopped apartmentlife!
+[21:51:43] Stopping helpmanager
+[21:51:43] Stopped helpmanager!
+[21:51:43] Stopping speedometer
+[21:51:43] Stopped speedometer!
+[21:51:43] Stopping freeroam
+[21:51:43] Stopped freeroam!
+[21:51:43] Stopping admin
+[21:51:43] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 21:51:45[21:51:45] Starting...
+[21:51:46] Loading resources...
+[21:51:46] Starting admin
+[21:51:46] Resource admin started!
+[21:51:46] Starting freeroam
+[21:51:46] Resource freeroam started!
+[21:51:46] Starting speedometer
+[21:51:46] Resource speedometer started!
+[21:51:46] Starting helpmanager
+[21:51:46] Resource helpmanager started!
+[21:51:46] Starting apartmentlife
+[21:51:46] Database initialized!
+[21:51:46] Resource apartmentlife started!
+[21:51:46] apartmentlife has started!
+[21:51:46] Started! Waiting for connections.
+[21:51:50] Initiating connection: [127.0.0.1:6000]
+[21:51:50] Processing connection: jamesyoui (jamesyoui) [127.0.0.1]
+[21:51:51] Connection established: jamesyoui (jamesyoui) [127.0.0.1]
+[21:52:10] Terminating...
+[21:52:10] Stopping apartmentlife
+[21:52:10] Stopped apartmentlife!
+[21:52:10] Stopping helpmanager
+[21:52:10] Stopped helpmanager!
+[21:52:10] Stopping speedometer
+[21:52:10] Stopped speedometer!
+[21:52:10] Stopping freeroam
+[21:52:10] Stopped freeroam!
+[21:52:10] Stopping admin
+[21:52:10] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 21:52:28[21:52:28] Starting...
+[21:52:29] Loading resources...
+[21:52:29] Starting admin
+[21:52:29] Resource admin started!
+[21:52:29] Starting freeroam
+[21:52:29] Resource freeroam started!
+[21:52:29] Starting speedometer
+[21:52:29] Resource speedometer started!
+[21:52:29] Starting helpmanager
+[21:52:29] Resource helpmanager started!
+[21:52:29] Starting apartmentlife
+[21:52:29] Database initialized!
+[21:52:29] Resource apartmentlife started!
+[21:52:29] apartmentlife has started!
+[21:52:29] Started! Waiting for connections.
+[21:52:34] Initiating connection: [127.0.0.1:6000]
+[21:52:35] Processing connection: jamesyoui (jamesyoui) [127.0.0.1]
+[21:52:35] Connection established: jamesyoui (jamesyoui) [127.0.0.1]
+[21:57:15] Terminating...
+[21:57:15] Stopping apartmentlife
+[21:57:15] Stopped apartmentlife!
+[21:57:15] Stopping helpmanager
+[21:57:15] Stopped helpmanager!
+[21:57:15] Stopping speedometer
+[21:57:15] Stopped speedometer!
+[21:57:15] Stopping freeroam
+[21:57:15] Stopped freeroam!
+[21:57:15] Stopping admin
+[21:57:15] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 21:57:17[21:57:17] Starting...
+[21:57:17] Loading resources...
+[21:57:17] Starting admin
+[21:57:18] Resource admin started!
+[21:57:18] Starting freeroam
+[21:57:18] Resource freeroam started!
+[21:57:18] Starting speedometer
+[21:57:18] Resource speedometer started!
+[21:57:18] Starting helpmanager
+[21:57:18] Resource helpmanager started!
+[21:57:18] Starting apartmentlife
+[21:57:18] Database initialized!
+[21:57:18] Resource apartmentlife started!
+[21:57:18] Started! Waiting for connections.
+[21:57:18] apartmentlife has started!
+[21:57:23] Initiating connection: [127.0.0.1:6000]
+[21:57:23] Processing connection: jamesyoui (jamesyoui) [127.0.0.1]
+[21:57:24] Connection established: jamesyoui (jamesyoui) [127.0.0.1]
+[21:57:46] EXCEPTION IN RESOURCE apartmentlife INSIDE SCRIPTENGINE ApartmentLife
+[21:57:46] System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot convert null to 'bool' because it is a non-nullable value type
+   at CallSite.Target(Closure , CallSite , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   at ApartmentLifeResource.ApartmentLife.apartments(Client player, String action, String parameter1)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at GTANetworkServer.ScriptingEngine.<>c__DisplayClass26_0.<InvokeVoidMethod>b__0() in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\ResourceInfo.cs:line 176
+   at GTANetworkServer.ScriptingEngine.MainThreadLoop() in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\ResourceInfo.cs:line 109
+[21:58:10] Terminating...
+[21:58:10] Stopping apartmentlife
+[21:58:10] Stopped apartmentlife!
+[21:58:10] Stopping helpmanager
+[21:58:10] EXCEPTION IN RESOURCE helpmanager INSIDE SCRIPTENGINE HelpManager
+[21:58:10] Stopped helpmanager!
+[21:58:10] ProtoBuf.ProtoException: Thread was being aborted. (GTANetworkShared.ScriptEventTrigger) ---> System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Array.UnsafeCreateInstance(Type elementType, Int32 length)
+   at System.Reflection.CustomAttribute.GetCustomAttributes(RuntimeModule decoratedModule, Int32 decoratedMetadataToken, Int32 pcaCount, RuntimeType attributeFilterType, Boolean mustBeInheritable, IList derivedAttributes, Boolean isDecoratedTargetSecurityTransparent)
+   at System.Reflection.CustomAttribute.GetCustomAttributes(RuntimeType type, RuntimeType caType, Boolean inherit)
+   at ProtoBuf.Meta.AttributeMap.Create(TypeModel model, Type type, Boolean inherit)
+   at ProtoBuf.Meta.MetaType.GetAsReferenceDefault(RuntimeTypeModel model, Type type)
+   at ProtoBuf.Meta.ValueMember..ctor(RuntimeTypeModel model, Type parentType, Int32 fieldNumber, MemberInfo member, Type memberType, Type itemType, Type defaultType, DataFormat dataFormat, Object defaultValue)
+   at ProtoBuf.Meta.MetaType.ApplyDefaultBehaviour(Boolean isEnum, ProtoMemberAttribute normalizedAttribute)
+   at ProtoBuf.Meta.MetaType.ApplyDefaultBehaviour()
+   at ProtoBuf.Meta.RuntimeTypeModel.FindOrAddAuto(Type type, Boolean demand, Boolean addWithContractOnly, Boolean addEvenIfAutoDisabled)
+   at ProtoBuf.Meta.RuntimeTypeModel.GetKey(Type type, Boolean demand, Boolean getBaseKey)
+   --- End of inner exception stack trace ---
+   at ProtoBuf.Meta.RuntimeTypeModel.GetKey(Type type, Boolean demand, Boolean getBaseKey)
+   at ProtoBuf.Meta.TypeModel.GetKey(Type& type)
+   at ProtoBuf.Meta.TypeModel.SerializeCore(ProtoWriter writer, Object value)
+   at ProtoBuf.Meta.TypeModel.Serialize(Stream dest, Object value, SerializationContext context)
+   at ProtoBuf.Serializer.Serialize[T](Stream destination, T instance)
+   at GTANetworkServer.GameServer.SerializeBinary(Object data) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 3215
+   at GTANetworkServer.GameServer.SendToAll(Object newData, PacketType packetType, Boolean important, ConnectionChannel channel) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 3166
+   at GTANetworkServer.API.triggerClientEventForAll(String eventName, Object[] args) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\API.cs:line 2597
+   at GTANetworkServer.ScriptingEngine.<>c__DisplayClass45_0.<InvokeServerResourceStop>b__0() in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\ResourceInfo.cs:line 434
+   at GTANetworkServer.ScriptingEngine.MainThreadLoop() in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\ResourceInfo.cs:line 109
+[21:58:10] Stopping speedometer
+[21:58:10] Stopped speedometer!
+[21:58:10] Stopping freeroam
+[21:58:10] Stopped freeroam!
+[21:58:10] Stopping admin
+[21:58:10] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 21:58:11[21:58:11] Starting...
+[21:58:12] Loading resources...
+[21:58:12] Starting admin
+[21:58:12] Resource admin started!
+[21:58:12] Starting freeroam
+[21:58:12] Resource freeroam started!
+[21:58:12] Starting speedometer
+[21:58:12] Resource speedometer started!
+[21:58:12] Starting helpmanager
+[21:58:12] Resource helpmanager started!
+[21:58:12] Starting apartmentlife
+[21:58:12] Database initialized!
+[21:58:12] Resource apartmentlife started!
+[21:58:12] Started! Waiting for connections.
+[21:58:12] apartmentlife has started!
+[21:58:17] Initiating connection: [127.0.0.1:6000]
+[21:58:17] Processing connection: jamesyoui (jamesyoui) [127.0.0.1]
+[21:58:17] Connection established: jamesyoui (jamesyoui) [127.0.0.1]
+[21:58:22] EXCEPTION IN RESOURCE apartmentlife INSIDE SCRIPTENGINE ApartmentLife
+[21:58:22] System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot convert null to 'int' because it is a non-nullable value type
+   at CallSite.Target(Closure , CallSite , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   at ApartmentLifeResource.ApartmentLife.apartments(Client player, String action, String parameter1)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at GTANetworkServer.ScriptingEngine.<>c__DisplayClass26_0.<InvokeVoidMethod>b__0() in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\ResourceInfo.cs:line 176
+   at GTANetworkServer.ScriptingEngine.MainThreadLoop() in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\ResourceInfo.cs:line 109
+[22:00:12] Terminating...
+[22:00:12] Stopping apartmentlife
+[22:00:12] Stopped apartmentlife!
+[22:00:12] Stopping helpmanager
+[22:00:12] EXCEPTION IN RESOURCE helpmanager INSIDE SCRIPTENGINE HelpManager
+[22:00:12] Stopped helpmanager!
+[22:00:12] ProtoBuf.ProtoException: Thread was being aborted. (GTANetworkShared.NativeArgument) ---> System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Array.Copy(Array sourceArray, Int32 sourceIndex, Array destinationArray, Int32 destinationIndex, Int32 length, Boolean reliable)
+   at System.Reflection.PseudoCustomAttribute.GetCustomAttributes(RuntimeMethodInfo method, RuntimeType caType, Boolean includeSecCa, Int32& count)
+   at System.Reflection.CustomAttribute.GetCustomAttributes(RuntimeMethodInfo method, RuntimeType caType, Boolean inherit)
+   at ProtoBuf.Meta.AttributeMap.Create(TypeModel model, MemberInfo member, Boolean inherit)
+   at ProtoBuf.Meta.MetaType.ApplyDefaultBehaviour()
+   at ProtoBuf.Meta.RuntimeTypeModel.FindOrAddAuto(Type type, Boolean demand, Boolean addWithContractOnly, Boolean addEvenIfAutoDisabled)
+   at ProtoBuf.Meta.RuntimeTypeModel.get_Item(Type type)
+   at ProtoBuf.Meta.MetaType.AddSubType(Int32 fieldNumber, Type derivedType, DataFormat dataFormat)
+   at ProtoBuf.Meta.MetaType.ApplyDefaultBehaviour()
+   at ProtoBuf.Meta.RuntimeTypeModel.FindOrAddAuto(Type type, Boolean demand, Boolean addWithContractOnly, Boolean addEvenIfAutoDisabled)
+   at ProtoBuf.Meta.RuntimeTypeModel.GetKey(Type type, Boolean demand, Boolean getBaseKey)
+   --- End of inner exception stack trace ---
+   at ProtoBuf.Meta.RuntimeTypeModel.GetKey(Type type, Boolean demand, Boolean getBaseKey)
+   at ProtoBuf.Meta.ValueMember.TryGetCoreSerializer(RuntimeTypeModel model, DataFormat dataFormat, Type type, WireType& defaultWireType, Boolean asReference, Boolean dynamicType, Boolean overwriteList, Boolean allowComplexTypes)
+   at ProtoBuf.Meta.ValueMember.BuildSerializer()
+   at ProtoBuf.Meta.MetaType.BuildSerializer()
+   at ProtoBuf.Meta.MetaType.get_Serializer()
+   at ProtoBuf.Meta.RuntimeTypeModel.Serialize(Int32 key, Object value, ProtoWriter dest)
+   at ProtoBuf.Meta.TypeModel.SerializeCore(ProtoWriter writer, Object value)
+   at ProtoBuf.Meta.TypeModel.Serialize(Stream dest, Object value, SerializationContext context)
+   at ProtoBuf.Serializer.Serialize[T](Stream destination, T instance)
+   at GTANetworkServer.GameServer.SerializeBinary(Object data) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 3215
+   at GTANetworkServer.GameServer.SendToAll(Object newData, PacketType packetType, Boolean important, ConnectionChannel channel) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 3166
+   at GTANetworkServer.API.triggerClientEventForAll(String eventName, Object[] args) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\API.cs:line 2597
+   at GTANetworkServer.ScriptingEngine.<>c__DisplayClass45_0.<InvokeServerResourceStop>b__0() in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\ResourceInfo.cs:line 434
+   at GTANetworkServer.ScriptingEngine.MainThreadLoop() in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\ResourceInfo.cs:line 109
+[22:00:12] Stopping speedometer
+[22:00:12] Stopped speedometer!
+[22:00:12] Stopping freeroam
+[22:00:12] Stopped freeroam!
+[22:00:12] Stopping admin
+[22:00:12] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 22:00:14[22:00:14] Starting...
+[22:00:14] Loading resources...
+[22:00:14] Starting admin
+[22:00:15] Resource admin started!
+[22:00:15] Starting freeroam
+[22:00:15] Resource freeroam started!
+[22:00:15] Starting speedometer
+[22:00:15] Resource speedometer started!
+[22:00:15] Starting helpmanager
+[22:00:15] Resource helpmanager started!
+[22:00:15] Starting apartmentlife
+[22:00:15] Database initialized!
+[22:00:15] Resource apartmentlife started!
+[22:00:15] apartmentlife has started!
+[22:00:15] Started! Waiting for connections.
+[22:00:21] Initiating connection: [127.0.0.1:6000]
+[22:00:21] Processing connection: jamesyoui (jamesyoui) [127.0.0.1]
+[22:00:21] Connection established: jamesyoui (jamesyoui) [127.0.0.1]
+[22:00:26] EXCEPTION IN RESOURCE apartmentlife INSIDE SCRIPTENGINE ApartmentLife
+[22:00:26] System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot convert null to 'int' because it is a non-nullable value type
+   at CallSite.Target(Closure , CallSite , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   at ApartmentLifeResource.ApartmentLife.apartments(Client player, String action, String parameter1)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at GTANetworkServer.ScriptingEngine.<>c__DisplayClass26_0.<InvokeVoidMethod>b__0() in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\ResourceInfo.cs:line 176
+   at GTANetworkServer.ScriptingEngine.MainThreadLoop() in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\ResourceInfo.cs:line 109
+[22:01:22] Terminating...
+[22:01:22] Stopping apartmentlife
+[22:01:22] Stopped apartmentlife!
+[22:01:22] Stopping helpmanager
+[22:01:22] EXCEPTION IN RESOURCE helpmanager INSIDE SCRIPTENGINE HelpManager
+[22:01:22] Stopped helpmanager!
+[22:01:22] ProtoBuf.ProtoException: Thread was being aborted. (GTANetworkShared.NativeArgument) ---> System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Array.Copy(Array sourceArray, Int32 sourceIndex, Array destinationArray, Int32 destinationIndex, Int32 length, Boolean reliable)
+   at System.Reflection.PseudoCustomAttribute.GetCustomAttributes(RuntimeType type, RuntimeType caType, Boolean includeSecCa, Int32& count)
+   at System.Reflection.CustomAttribute.GetCustomAttributes(RuntimeType type, RuntimeType caType, Boolean inherit)
+   at ProtoBuf.Meta.AttributeMap.Create(TypeModel model, Type type, Boolean inherit)
+   at ProtoBuf.Meta.MetaType.GetAsReferenceDefault(RuntimeTypeModel model, Type type)
+   at ProtoBuf.Meta.ValueMember..ctor(RuntimeTypeModel model, Type parentType, Int32 fieldNumber, MemberInfo member, Type memberType, Type itemType, Type defaultType, DataFormat dataFormat, Object defaultValue)
+   at ProtoBuf.Meta.MetaType.ApplyDefaultBehaviour(Boolean isEnum, ProtoMemberAttribute normalizedAttribute)
+   at ProtoBuf.Meta.MetaType.ApplyDefaultBehaviour()
+   at ProtoBuf.Meta.RuntimeTypeModel.FindOrAddAuto(Type type, Boolean demand, Boolean addWithContractOnly, Boolean addEvenIfAutoDisabled)
+   at ProtoBuf.Meta.RuntimeTypeModel.get_Item(Type type)
+   at ProtoBuf.Meta.MetaType.AddSubType(Int32 fieldNumber, Type derivedType, DataFormat dataFormat)
+   at ProtoBuf.Meta.MetaType.ApplyDefaultBehaviour()
+   at ProtoBuf.Meta.RuntimeTypeModel.FindOrAddAuto(Type type, Boolean demand, Boolean addWithContractOnly, Boolean addEvenIfAutoDisabled)
+   at ProtoBuf.Meta.RuntimeTypeModel.GetKey(Type type, Boolean demand, Boolean getBaseKey)
+   --- End of inner exception stack trace ---
+   at ProtoBuf.Meta.RuntimeTypeModel.GetKey(Type type, Boolean demand, Boolean getBaseKey)
+   at ProtoBuf.Meta.ValueMember.TryGetCoreSerializer(RuntimeTypeModel model, DataFormat dataFormat, Type type, WireType& defaultWireType, Boolean asReference, Boolean dynamicType, Boolean overwriteList, Boolean allowComplexTypes)
+   at ProtoBuf.Meta.ValueMember.BuildSerializer()
+   at ProtoBuf.Meta.MetaType.BuildSerializer()
+   at ProtoBuf.Meta.MetaType.get_Serializer()
+   at ProtoBuf.Meta.RuntimeTypeModel.Serialize(Int32 key, Object value, ProtoWriter dest)
+   at ProtoBuf.Meta.TypeModel.SerializeCore(ProtoWriter writer, Object value)
+   at ProtoBuf.Meta.TypeModel.Serialize(Stream dest, Object value, SerializationContext context)
+   at ProtoBuf.Serializer.Serialize[T](Stream destination, T instance)
+   at GTANetworkServer.GameServer.SerializeBinary(Object data) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 3215
+   at GTANetworkServer.GameServer.SendToAll(Object newData, PacketType packetType, Boolean important, ConnectionChannel channel) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 3166
+   at GTANetworkServer.API.triggerClientEventForAll(String eventName, Object[] args) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\API.cs:line 2597
+   at GTANetworkServer.ScriptingEngine.<>c__DisplayClass45_0.<InvokeServerResourceStop>b__0() in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\ResourceInfo.cs:line 434
+   at GTANetworkServer.ScriptingEngine.MainThreadLoop() in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\ResourceInfo.cs:line 109
+[22:01:22] Stopping speedometer
+[22:01:22] Stopped speedometer!
+[22:01:22] Stopping freeroam
+[22:01:22] Stopped freeroam!
+[22:01:22] Stopping admin
+[22:01:22] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 22:01:24[22:01:24] Starting...
+[22:01:24] Loading resources...
+[22:01:24] Starting admin
+[22:01:24] Resource admin started!
+[22:01:24] Starting freeroam
+[22:01:25] Resource freeroam started!
+[22:01:25] Starting speedometer
+[22:01:25] Resource speedometer started!
+[22:01:25] Starting helpmanager
+[22:01:25] Resource helpmanager started!
+[22:01:25] Starting apartmentlife
+[22:01:25] Database initialized!
+[22:01:25] Resource apartmentlife started!
+[22:01:25] apartmentlife has started!
+[22:01:25] Started! Waiting for connections.
+[22:01:33] Initiating connection: [127.0.0.1:6000]
+[22:01:33] Processing connection: jamesyoui (jamesyoui) [127.0.0.1]
+[22:01:33] Connection established: jamesyoui (jamesyoui) [127.0.0.1]
+[22:01:39] EXCEPTION IN RESOURCE apartmentlife INSIDE SCRIPTENGINE ApartmentLife
+[22:01:39] System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot convert null to 'int' because it is a non-nullable value type
+   at CallSite.Target(Closure , CallSite , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   at ApartmentLifeResource.ApartmentLife.apartments(Client player, String action, String parameter1)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at GTANetworkServer.ScriptingEngine.<>c__DisplayClass26_0.<InvokeVoidMethod>b__0() in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\ResourceInfo.cs:line 176
+   at GTANetworkServer.ScriptingEngine.MainThreadLoop() in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\ResourceInfo.cs:line 109
+[22:02:10] Terminating...
+[22:02:10] Stopping apartmentlife
+[22:02:10] Stopped apartmentlife!
+[22:02:10] Stopping helpmanager
+[22:02:10] EXCEPTION IN RESOURCE helpmanager INSIDE SCRIPTENGINE HelpManager
+[22:02:10] Stopped helpmanager!
+[22:02:10] System.InvalidOperationException: It was not possible to prepare a serializer for: GTANetworkShared.ScriptEventTrigger ---> System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Mda.MemberInfoCacheCreation()
+   at System.RuntimeType.RuntimeTypeCache.GetMemberCache[T](MemberInfoCache`1& m_cache)
+   at System.RuntimeType.GetMethodCandidates(String name, BindingFlags bindingAttr, CallingConventions callConv, Type[] types, Boolean allowPrefixLookup)
+   at System.RuntimeType.GetMethodImpl(String name, BindingFlags bindingAttr, Binder binder, CallingConventions callConv, Type[] types, ParameterModifier[] modifiers)
+   at System.Type.GetMethod(String name, BindingFlags bindingAttr)
+   at System.Security.PermissionToken.FindToken(Type cls)
+   at System.Security.PermissionSet.RemovePermissionImpl(Type permClass)
+   at System.Security.PermissionSet.CopyWithNoIdentityPermissions()
+   at System.Security.CodeAccessSecurityEngine.ReflectionTargetDemandHelper(Int32 permission, PermissionSet targetGrant, CompressedStack securityContext)
+   at System.Security.CodeAccessSecurityEngine.ReflectionTargetDemandHelper(Int32 permission, PermissionSet targetGrant)
+   at System.Security.CodeAccessSecurityEngine.ReflectionTargetDemandHelper(PermissionType permission, PermissionSet targetGrant)
+   at System.Reflection.Emit.DynamicMethod.PerformSecurityCheck(Type owner, StackCrawlMark& stackMark, Boolean skipVisibility)
+   at System.Reflection.Emit.DynamicMethod..ctor(String name, Type returnType, Type[] parameterTypes, Type owner, Boolean skipVisibility)
+   at ProtoBuf.Compiler.CompilerContext..ctor(Type associatedType, Boolean isWriter, Boolean isStatic, TypeModel model, Type inputType)
+   at ProtoBuf.Compiler.CompilerContext.BuildSerializer(IProtoSerializer head, TypeModel model)
+   --- End of inner exception stack trace ---
+   at ProtoBuf.Compiler.CompilerContext.BuildSerializer(IProtoSerializer head, TypeModel model)
+   at ProtoBuf.Serializers.CompiledSerializer..ctor(IProtoTypeSerializer head, TypeModel model)
+   at ProtoBuf.Serializers.CompiledSerializer.Wrap(IProtoTypeSerializer head, TypeModel model)
+   at ProtoBuf.Meta.MetaType.get_Serializer()
+   at ProtoBuf.Meta.RuntimeTypeModel.Serialize(Int32 key, Object value, ProtoWriter dest)
+   at ProtoBuf.Meta.TypeModel.SerializeCore(ProtoWriter writer, Object value)
+   at ProtoBuf.Meta.TypeModel.Serialize(Stream dest, Object value, SerializationContext context)
+   at ProtoBuf.Serializer.Serialize[T](Stream destination, T instance)
+   at GTANetworkServer.GameServer.SerializeBinary(Object data) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 3215
+   at GTANetworkServer.GameServer.SendToAll(Object newData, PacketType packetType, Boolean important, ConnectionChannel channel) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 3166
+   at GTANetworkServer.API.triggerClientEventForAll(String eventName, Object[] args) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\API.cs:line 2597
+   at GTANetworkServer.ScriptingEngine.<>c__DisplayClass45_0.<InvokeServerResourceStop>b__0() in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\ResourceInfo.cs:line 434
+   at GTANetworkServer.ScriptingEngine.MainThreadLoop() in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\ResourceInfo.cs:line 109
+[22:02:10] Stopping speedometer
+[22:02:10] Stopped speedometer!
+[22:02:10] Stopping freeroam
+[22:02:10] Stopped freeroam!
+[22:02:10] Stopping admin
+[22:02:10] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 22:02:12[22:02:12] Starting...
+[22:02:12] Loading resources...
+[22:02:13] Starting admin
+[22:02:13] Resource admin started!
+[22:02:13] Starting freeroam
+[22:02:13] Resource freeroam started!
+[22:02:13] Starting speedometer
+[22:02:13] Resource speedometer started!
+[22:02:13] Starting helpmanager
+[22:02:13] Resource helpmanager started!
+[22:02:13] Starting apartmentlife
+[22:02:13] Database initialized!
+[22:02:13] Resource apartmentlife started!
+[22:02:13] apartmentlife has started!
+[22:02:13] Started! Waiting for connections.
+[22:02:18] Initiating connection: [127.0.0.1:6000]
+[22:02:19] Processing connection: jamesyoui (jamesyoui) [127.0.0.1]
+[22:02:19] Connection established: jamesyoui (jamesyoui) [127.0.0.1]
+[22:03:13] Terminating...
+[22:03:13] Stopping apartmentlife
+[22:03:13] Stopped apartmentlife!
+[22:03:13] Stopping helpmanager
+[22:03:13] EXCEPTION IN RESOURCE helpmanager INSIDE SCRIPTENGINE HelpManager
+[22:03:13] Stopped helpmanager!
+[22:03:13] Stopping speedometer
+[22:03:13] ProtoBuf.ProtoException: Thread was being aborted. (GTANetworkShared.NativeArgument) ---> System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Reflection.CustomAttribute._CreateCaObject(RuntimeModule pModule, IRuntimeMethodInfo pCtor, Byte** ppBlob, Byte* pEndBlob, Int32* pcNamedArgs)
+   at System.Reflection.CustomAttribute.CreateCaObject(RuntimeModule module, IRuntimeMethodInfo ctor, IntPtr& blob, IntPtr blobEnd, Int32& namedArgs)
+   at System.Reflection.CustomAttribute.GetCustomAttributes(RuntimeModule decoratedModule, Int32 decoratedMetadataToken, Int32 pcaCount, RuntimeType attributeFilterType, Boolean mustBeInheritable, IList derivedAttributes, Boolean isDecoratedTargetSecurityTransparent)
+   at System.Reflection.CustomAttribute.GetCustomAttributes(RuntimeType type, RuntimeType caType, Boolean inherit)
+   at ProtoBuf.Meta.AttributeMap.Create(TypeModel model, Type type, Boolean inherit)
+   at ProtoBuf.Meta.MetaType.GetContractFamily(RuntimeTypeModel model, Type type, AttributeMap[] attributes)
+   at ProtoBuf.Meta.RuntimeTypeModel.TryGetBasicTypeSerializer(Type type)
+   at ProtoBuf.Meta.RuntimeTypeModel.FindOrAddAuto(Type type, Boolean demand, Boolean addWithContractOnly, Boolean addEvenIfAutoDisabled)
+   at ProtoBuf.Meta.RuntimeTypeModel.GetKey(Type type, Boolean demand, Boolean getBaseKey)
+   --- End of inner exception stack trace ---
+   at ProtoBuf.Meta.RuntimeTypeModel.GetKey(Type type, Boolean demand, Boolean getBaseKey)
+   at ProtoBuf.Meta.ValueMember.TryGetCoreSerializer(RuntimeTypeModel model, DataFormat dataFormat, Type type, WireType& defaultWireType, Boolean asReference, Boolean dynamicType, Boolean overwriteList, Boolean allowComplexTypes)
+   at ProtoBuf.Meta.ValueMember.BuildSerializer()
+   at ProtoBuf.Meta.MetaType.BuildSerializer()
+   at ProtoBuf.Meta.MetaType.get_Serializer()
+   at ProtoBuf.Meta.RuntimeTypeModel.Serialize(Int32 key, Object value, ProtoWriter dest)
+   at ProtoBuf.Meta.TypeModel.SerializeCore(ProtoWriter writer, Object value)
+   at ProtoBuf.Meta.TypeModel.Serialize(Stream dest, Object value, SerializationContext context)
+   at ProtoBuf.Serializer.Serialize[T](Stream destination, T instance)
+   at GTANetworkServer.GameServer.SerializeBinary(Object data) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 3215
+   at GTANetworkServer.GameServer.SendToAll(Object newData, PacketType packetType, Boolean important, ConnectionChannel channel) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 3166
+   at GTANetworkServer.API.triggerClientEventForAll(String eventName, Object[] args) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\API.cs:line 2597
+   at GTANetworkServer.ScriptingEngine.<>c__DisplayClass45_0.<InvokeServerResourceStop>b__0() in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\ResourceInfo.cs:line 434
+   at GTANetworkServer.ScriptingEngine.MainThreadLoop() in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\ResourceInfo.cs:line 109
+[22:03:13] Stopped speedometer!
+[22:03:13] Stopping freeroam
+[22:03:13] Stopped freeroam!
+[22:03:13] Stopping admin
+[22:03:13] Stopped admin!
+-> SERVER STARTED AT 15/01/2017 22:03:16[22:03:16] Starting...
+[22:03:16] Loading resources...
+[22:03:17] Starting admin
+[22:03:17] Resource admin started!
+[22:03:17] Starting freeroam
+[22:03:17] Resource freeroam started!
+[22:03:17] Starting speedometer
+[22:03:17] Resource speedometer started!
+[22:03:17] Starting helpmanager
+[22:03:17] Resource helpmanager started!
+[22:03:17] Starting apartmentlife
+[22:03:17] Database initialized!
+[22:03:17] Resource apartmentlife started!
+[22:03:17] apartmentlife has started!
+[22:03:17] Started! Waiting for connections.
+[22:03:23] Initiating connection: [127.0.0.1:6000]
+[22:03:23] Processing connection: jamesyoui (jamesyoui) [127.0.0.1]
+[22:03:24] Connection established: jamesyoui (jamesyoui) [127.0.0.1]
+[22:03:28] EXCEPTION IN RESOURCE apartmentlife INSIDE SCRIPTENGINE ApartmentLife
+[22:03:28] System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot convert null to 'int' because it is a non-nullable value type
+   at CallSite.Target(Closure , CallSite , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   at ApartmentLifeResource.ApartmentLife.apartments(Client player, String action, String parameter1)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at GTANetworkServer.ScriptingEngine.<>c__DisplayClass26_0.<InvokeVoidMethod>b__0() in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\ResourceInfo.cs:line 176
+   at GTANetworkServer.ScriptingEngine.MainThreadLoop() in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\ResourceInfo.cs:line 109
+[22:05:09] Terminating...
+[22:05:09] Stopping apartmentlife
+[22:05:10] Stopped apartmentlife!
+[22:05:10] Stopping helpmanager
+[22:05:10] EXCEPTION IN RESOURCE helpmanager INSIDE SCRIPTENGINE HelpManager
+[22:05:10] Stopped helpmanager!
+[22:05:10] ProtoBuf.ProtoException: Thread was being aborted. (GTANetworkShared.NativeArgument) ---> System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, Object[] index)
+   at ProtoBuf.Meta.AttributeMap.ReflectionAttributeMap.TryGet(String key, Boolean publicOnly, Object& value)
+   at ProtoBuf.Meta.MetaType.GetFieldBoolean(Boolean& value, AttributeMap attrib, String memberName, Boolean publicOnly)
+   at ProtoBuf.Meta.MetaType.NormalizeProtoMember(TypeModel model, MemberInfo member, AttributeFamily family, Boolean forced, Boolean isEnum, BasicList partialMembers, Int32 dataMemberOffset, Boolean inferByTagName)
+   at ProtoBuf.Meta.MetaType.ApplyDefaultBehaviour_AddMembers(TypeModel model, AttributeFamily family, Boolean isEnum, BasicList partialMembers, Int32 dataMemberOffset, Boolean inferTagByName, ImplicitFields implicitMode, BasicList members, MemberInfo member, Boolean& forced, Boolean isPublic, Boolean isField, Type& effectiveType)
+   at ProtoBuf.Meta.MetaType.ApplyDefaultBehaviour()
+   at ProtoBuf.Meta.RuntimeTypeModel.FindOrAddAuto(Type type, Boolean demand, Boolean addWithContractOnly, Boolean addEvenIfAutoDisabled)
+   at ProtoBuf.Meta.RuntimeTypeModel.get_Item(Type type)
+   at ProtoBuf.Meta.MetaType.AddSubType(Int32 fieldNumber, Type derivedType, DataFormat dataFormat)
+   at ProtoBuf.Meta.MetaType.ApplyDefaultBehaviour()
+   at ProtoBuf.Meta.RuntimeTypeModel.FindOrAddAuto(Type type, Boolean demand, Boolean addWithContractOnly, Boolean addEvenIfAutoDisabled)
+   at ProtoBuf.Meta.RuntimeTypeModel.GetKey(Type type, Boolean demand, Boolean getBaseKey)
+   --- End of inner exception stack trace ---
+   at ProtoBuf.Meta.RuntimeTypeModel.GetKey(Type type, Boolean demand, Boolean getBaseKey)
+   at ProtoBuf.Meta.ValueMember.TryGetCoreSerializer(RuntimeTypeModel model, DataFormat dataFormat, Type type, WireType& defaultWireType, Boolean asReference, Boolean dynamicType, Boolean overwriteList, Boolean allowComplexTypes)
+   at ProtoBuf.Meta.ValueMember.BuildSerializer()
+   at ProtoBuf.Meta.MetaType.BuildSerializer()
+   at ProtoBuf.Meta.MetaType.get_Serializer()
+   at ProtoBuf.Meta.RuntimeTypeModel.Serialize(Int32 key, Object value, ProtoWriter dest)
+   at ProtoBuf.Meta.TypeModel.SerializeCore(ProtoWriter writer, Object value)
+   at ProtoBuf.Meta.TypeModel.Serialize(Stream dest, Object value, SerializationContext context)
+   at ProtoBuf.Serializer.Serialize[T](Stream destination, T instance)
+   at GTANetworkServer.GameServer.SerializeBinary(Object data) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 3215
+   at GTANetworkServer.GameServer.SendToAll(Object newData, PacketType packetType, Boolean important, ConnectionChannel channel) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\GameServer.cs:line 3166
+   at GTANetworkServer.API.triggerClientEventForAll(String eventName, Object[] args) in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\API.cs:line 2597
+   at GTANetworkServer.ScriptingEngine.<>c__DisplayClass45_0.<InvokeServerResourceStop>b__0() in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\ResourceInfo.cs:line 434
+   at GTANetworkServer.ScriptingEngine.MainThreadLoop() in C:\Users\Adam\Documents\Git\gtanet-src\mtav\Server\ResourceInfo.cs:line 109
+[22:05:10] Stopping speedometer
+[22:05:10] Stopped speedometer!
+[22:05:10] Stopping freeroam
+[22:05:10] Stopped freeroam!
+[22:05:10] Stopping admin
+[22:05:10] Stopped admin!

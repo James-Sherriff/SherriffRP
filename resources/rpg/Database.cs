@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -81,36 +81,32 @@ namespace RPGResource
             }
         }
 
-        public static void SavePlayerAccount(Client player)
+      public static void SavePlayerAccount(Client player)
+      {
+        var path = Path.Combine(PLAYERS_FOLDER, player.socialClubName);
+
+        if (!File.Exists(path)) return;
+
+        var old = API.shared.fromJson(File.ReadAllText(path));
+
+        var data = new PlayerData()
         {
-            var path = Path.Combine(ACCOUNT_FOLDER, player.socialClubName);
+          socialClubName = player.socialClubName,
+          Password = old.Password,
+        };
 
-            //if (!path.StartsWith(Directory.GetCurrentDirectory())) return;
+        foreach (var property in typeof(PlayerData).GetProperties())
+        {
+          if (property.GetCustomAttributes(typeof(XmlIgnoreAttribute), false).Length > 0) continue;
 
-            if (!File.Exists(path)) return;
-
-            var old = API.shared.fromJson(File.ReadAllText(path));
-
-            var data = new PlayerData()
-            {
-                socialClubName = player.socialClubName,
-                Password = old.Password,
-            };
-
-            foreach (var property in typeof(PlayerData).GetProperties())
-            {
-                if (property.GetCustomAttributes(typeof(XmlIgnoreAttribute), false).Length > 0) continue;
-
-                if (API.shared.hasEntityData(player, property.Name))
-                {
-                    property.SetValue(data, API.shared.getEntityData(player, property.Name), null);
-                }
-            }
-
-            var ser = API.shared.toJson(data);
-
-            File.WriteAllText(path, ser);
+          if(API.shared.hasEntityData(player, property.Name))
+          {
+            property.SetValue(data, API.shared.getEntityData(player, property.Name), null);
+          }
         }
+        var ser = API.shared.toJson(data);
+        File.WriteAllText(path, ser);
+      }
     }
 
     public class PlayerData
