@@ -17,10 +17,6 @@
   <vehicle_lagcomp>true</vehicle_lagcomp>
   <onfoot_lagcomp>true</onfoot_lagcomp>
   <refresh_rate>120</refresh_rate>
-  <resource src="admin" />
-  <resource src="freeroam" />
-  <resource src="speedometer" />
-  <resource src="helpmanager" />
   <resource src="apartmentlife" />
   <announce_lan>true</announce_lan>
   <upnp>false</upnp>

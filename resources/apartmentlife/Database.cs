@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Xml.Serialization;
 using GTANetworkServer;
+using GTANetworkShared;
 
 namespace ApartmentLifeResource
 {
@@ -109,6 +110,7 @@ namespace ApartmentLifeResource
     public int Level { get; set; }
     public int WantedLevel { get; set; }
     public int Money { get; set; }
-    public string Apartment { get; set; }
+    public string ApartmentType { get; set; }
+    public Vector3 ApartmentLocation { get; set; }
   }
 }

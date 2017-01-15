@@ -1,4 +1,5 @@
 using GTANetworkServer;
+using GTANetworkShared;
 
 namespace ApartmentLifeResource 
 {
@@ -26,6 +27,7 @@ namespace ApartmentLifeResource
       else
       {
         Database.LoadPlayerAccount(sender);
+        API.call("ApartmentLife", "LoadPlayerApartmentDoor", sender);
         API.sendChatMessageToPlayer(sender, "~g~ Logged in!");
       }
     }
